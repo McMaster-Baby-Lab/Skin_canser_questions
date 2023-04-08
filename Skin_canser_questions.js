@@ -1,6 +1,6 @@
-/*************************** 
- * Faceattractiveness Test *
- ***************************/
+/****************************** 
+ * Skin_Canser_Questions Test *
+ ******************************/
 
 import { core, data, sound, util, visual, hardware } from './lib/psychojs-2022.2.5.js';
 const { PsychoJS } = core;
@@ -12,7 +12,7 @@ const { round } = util;
 
 
 // store info about the experiment session:
-let expName = 'FaceAttractiveness';  // from the Builder filename that created this script
+let expName = 'Skin_canser_questions';  // from the Builder filename that created this script
 let expInfo = {
     '': '',
 };
