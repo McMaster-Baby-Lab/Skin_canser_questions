@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2022.2.5),
-    on April 07, 2023, at 22:52
+    on April 08, 2023, at 18:07
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -36,12 +36,9 @@ _thisDir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(_thisDir)
 # Store info about the experiment session
 psychopyVersion = '2022.2.5'
-expName = 'FaceAttractiveness'  # from the Builder filename that created this script
+expName = 'Skin_canser_faces'  # from the Builder filename that created this script
 expInfo = {
-    'Name': '',
-    'Gender': '',
-    'Age': '',
-    'Ethnicity': '',
+    '': '',
 }
 # --- Show participant info dialog --
 dlg = gui.DlgFromDict(dictionary=expInfo, sortKeys=False, title=expName)
@@ -57,7 +54,7 @@ filename = _thisDir + os.sep + u'data/%s_%s_%s' % (expInfo['Name'], expName, exp
 # An ExperimentHandler isn't essential but helps with data saving
 thisExp = data.ExperimentHandler(name=expName, version='',
     extraInfo=expInfo, runtimeInfo=None,
-    originPath='C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\FaceAttractiveness.py',
+    originPath='C:\\Users\\annak\\Documents\\GitHub\\Skin_canser_questions\\Skin_canser_questions.py',
     savePickle=True, saveWideText=True,
     dataFileName=filename)
 # save a log file for detail verbose info
@@ -179,7 +176,7 @@ face_image_q = visual.ImageStim(
 slider_trustworthy = visual.Slider(win=win, name='slider_trustworthy',
     startValue=None, size=(1.0, 0.025), pos=(0, 0), units=None,
     labels=("Never trustworthy", "Rarely trustworthy", "Occasionally trustworthy", "Frequently aggressive", "Always aggressive"), ticks=(1, 2, 3, 4, 5), granularity=1.0,
-    style='radio', styleTweaks=('labels45',), opacity=None,
+    style='radio', styleTweaks=(), opacity=None,
     labelColor='LightGray', markerColor='Red', lineColor='White', colorSpace='rgb',
     font='Open Sans', labelHeight=0.02,
     flip=False, ori=0.0, depth=-2, readOnly=False)
@@ -204,17 +201,17 @@ text_aggressive = visual.TextStim(win=win, name='text_aggressive',
     color='white', colorSpace='rgb', opacity=None, 
     languageStyle='LTR',
     depth=-5.0);
-mouse_7 = event.Mouse(win=win)
-x, y = [None, None]
-mouse_7.mouseClock = core.Clock()
 Confirm = visual.ImageStim(
     win=win,
     name='Confirm', 
     image='Picture1-eng.png', mask=None, anchor='center',
-    ori=0.0, pos=positionNext2, size=(0.2, 0.1),
+    ori=0.0, pos=[0,0], size=(0.2, 0.1),
     color=[1,1,1], colorSpace='rgb', opacity=None,
     flipHoriz=False, flipVert=False,
-    texRes=128.0, interpolate=True, depth=-7.0)
+    texRes=128.0, interpolate=True, depth=-6.0)
+mouse_7 = event.Mouse(win=win)
+x, y = [None, None]
+mouse_7.mouseClock = core.Clock()
 
 # --- Initialize components for Routine "ITI2" ---
 text_2 = visual.TextStim(win=win, name='text_2',
@@ -802,7 +799,6 @@ for thisFaceQuestion in faceQuestions:
     # Run 'Begin Routine' code from code_3
     positionNext2 = (0, -0.9)
     
-    
     face_image_q.setImage(faceImages_q)
     slider_trustworthy.reset()
     slider_aggressive.reset()
@@ -816,7 +812,7 @@ for thisFaceQuestion in faceQuestions:
     mouse_7.clicked_name = []
     gotValidClick = False  # until a click is received
     # keep track of which components have finished
-    FaceQuestionsComponents = [face_image_q, slider_trustworthy, text_trustworthy, slider_aggressive, text_aggressive, mouse_7, Confirm]
+    FaceQuestionsComponents = [face_image_q, slider_trustworthy, text_trustworthy, slider_aggressive, text_aggressive, Confirm, mouse_7]
     for thisComponent in FaceQuestionsComponents:
         thisComponent.tStart = None
         thisComponent.tStop = None
@@ -902,6 +898,19 @@ for thisFaceQuestion in faceQuestions:
             # add timestamp to datafile
             thisExp.timestampOnFlip(win, 'text_aggressive.started')
             text_aggressive.setAutoDraw(True)
+        
+        # *Confirm* updates
+        if Confirm.status == NOT_STARTED and tThisFlip >= 0.3-frameTolerance:
+            # keep track of start time/frame for later
+            Confirm.frameNStart = frameN  # exact frame index
+            Confirm.tStart = t  # local t and not account for scr refresh
+            Confirm.tStartRefresh = tThisFlipGlobal  # on global time
+            win.timeOnFlip(Confirm, 'tStartRefresh')  # time at next scr refresh
+            # add timestamp to datafile
+            thisExp.timestampOnFlip(win, 'Confirm.started')
+            Confirm.setAutoDraw(True)
+        if Confirm.status == STARTED:  # only update if drawing
+            Confirm.setPos(positionNext2, log=False)
         # *mouse_7* updates
         if mouse_7.status == NOT_STARTED and t >= 0.3-frameTolerance:
             # keep track of start time/frame for later
@@ -922,10 +931,10 @@ for thisFaceQuestion in faceQuestions:
                     # check if the mouse was inside our 'clickable' objects
                     gotValidClick = False
                     try:
-                        iter(Confirm)
-                        clickableList = Confirm
+                        iter([Confirm,])
+                        clickableList = [Confirm,]
                     except:
-                        clickableList = [Confirm]
+                        clickableList = [[Confirm,]]
                     for obj in clickableList:
                         if obj.contains(mouse_7):
                             gotValidClick = True
@@ -940,17 +949,6 @@ for thisFaceQuestion in faceQuestions:
                     mouse_7.time.append(mouse_7.mouseClock.getTime())
                     if gotValidClick:
                         continueRoutine = False  # abort routine on response
-        
-        # *Confirm* updates
-        if Confirm.status == NOT_STARTED and tThisFlip >= 0.3-frameTolerance:
-            # keep track of start time/frame for later
-            Confirm.frameNStart = frameN  # exact frame index
-            Confirm.tStart = t  # local t and not account for scr refresh
-            Confirm.tStartRefresh = tThisFlipGlobal  # on global time
-            win.timeOnFlip(Confirm, 'tStartRefresh')  # time at next scr refresh
-            # add timestamp to datafile
-            thisExp.timestampOnFlip(win, 'Confirm.started')
-            Confirm.setAutoDraw(True)
         
         # check for quit (typically the Esc key)
         if endExpNow or defaultKeyboard.getKeys(keyList=["escape"]):
