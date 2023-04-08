@@ -1,0 +1,47 @@
+7.5384 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+7.5547 	WARNING 	User requested fullscreen with size [1280 1440], but screen is actually [1920, 1080]. Using actual size
+9.0732 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E006654D90>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E006B76220>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.0733 	EXP 	window1: mouseVisible = True
+9.0734 	EXP 	window1: mouseVisible = False
+9.0734 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.0734 	EXP 	window1: recordFrameIntervals = False
+9.1416 	EXP 	window1: recordFrameIntervals = True
+9.2178 	EXP 	Screen (0) actual frame rate measured at 143.48Hz
+9.2178 	EXP 	window1: recordFrameIntervals = False
+11.0991 	INFO 	keyboard.Keyboard is using iohub backend.
+11.2180 	EXP 	Created instrBlock = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instrBlock', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.2185 	EXP 	window1: mouseVisible = True
+11.2357 	EXP 	Created face_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=True, flipVert=False, image='sin', interpolate=False, mask=None, maskParams=None, name='face_image', opacity=1.0, ori=0.0, pos=array([  0., 100.]), size=array([960., 540.]), texRes=512, units='pix', win=Window(...))
+11.2393 	EXP 	window1: mouseVisible = True
+11.2543 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='HelveticaBold', granularity=0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='slider', opacity=None, ori=0, pos=array([ 0.  , -0.28]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style=['rating'], styleTweaks=['triangleMarker'], ticks=array([  0,  25,  50,  75, 100]), units='height', win=Window(...))
+11.2685 	EXP 	Created NextBu = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=False, mask=None, maskParams=None, name='NextBu', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.1]), texRes=512, units='height', win=Window(...))
+11.2716 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0, pos=array([-0.5 , -0.32]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.2720 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0, pos=array([ 0.5 , -0.32]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.2721 	EXP 	window1: mouseVisible = True
+11.3357 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.3625 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.3728 	DEBUG 	Read excel file with openpyxl: Rating_BlockOrder.xlsx
+11.3729 	EXP 	Imported Rating_BlockOrder.xlsx as conditions, 1 conditions, 3 params
+11.3737 	EXP 	Created sequence: fullRandom, trialTypes=1, nReps=1, seed=None
+11.3739 	EXP 	New trial (rep=0, index=0): {'Task': 'Attractiveness', 'LeftLabel': 'Extremely  Attractive', 'RightLabel': 'Extremely Unattractive'}
+11.4373 	EXP 	slider: autoLog = True
+11.4373 	EXP 	slider: markerPos = None
+11.4373 	EXP 	slider: styleTweaks = []
+11.4373 	EXP 	slider: styleTweaks = []
+11.4373 	EXP 	slider: styleTweaks = ['triangleMarker']
+11.4373 	EXP 	slider: styleTweaks = ['triangleMarker']
+11.4373 	EXP 	slider: contrast = 1.0
+11.4373 	EXP 	slider: autoLog = True
+11.4373 	EXP 	instrBlock: height = 0.05
+11.4373 	EXP 	instrBlock: height = 0.05
+11.4373 	EXP 	instrBlock: height = 0.05
+11.4373 	EXP 	instrBlock: text = '欢迎参加实验！\n\n你会看到一些面孔图片。你需要对面孔的Attractiveness进行评价。\n\n你需要在标尺上点击相应的位置进行评价。\n\n点击鼠标开始。'
+11.4373 	EXP 	instrBlock: autoDraw = True
+14.4816 	DATA 	Keypress: return
+15.5743 	DATA 	Mouse: Left button down, pos=(835,572)
+15.5772 	EXP 	Created sequence: sequential, trialTypes=1, nReps=95, seed=None
+15.5775 	EXP 	New trial (rep=0, index=0): None
+15.5979 	EXP 	window1: mouseVisible = True
+15.5986 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+15.5998 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/r_FaceAttractiveness_2023-04-03_13h43.57.523.psydat
+15.6005 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/r_FaceAttractiveness_2023-04-03_13h43.57.523.csv'

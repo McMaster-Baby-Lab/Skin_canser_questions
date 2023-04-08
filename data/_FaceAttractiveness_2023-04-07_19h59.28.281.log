@@ -1,0 +1,280 @@
+5.1122 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+5.1193 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+6.3374 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E5A97C6E80>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E5AF188340>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.3375 	EXP 	window1: mouseVisible = True
+6.3376 	EXP 	window1: mouseVisible = False
+6.3376 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.3376 	EXP 	window1: recordFrameIntervals = False
+6.4133 	EXP 	window1: recordFrameIntervals = True
+6.4890 	EXP 	Screen (0) actual frame rate measured at 144.12Hz
+6.4890 	EXP 	window1: recordFrameIntervals = False
+8.2022 	INFO 	keyboard.Keyboard is using iohub backend.
+8.2365 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.2674 	EXP 	Created face_image_q = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='images/FOREHEAD_006_M_F_N_A.png', interpolate=True, mask=None, maskParams=None, name='face_image_q', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), size=array([0.26203704, 0.32777778]), texRes=128.0, units='height', win=Window(...))
+8.2717 	EXP 	window1: mouseVisible = True
+8.2911 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2920 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2934 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2940 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2946 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2953 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2961 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2969 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2979 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2987 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2995 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3005 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.3061 	DEBUG 	Upload of Texture Font fontname complete
+8.3222 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3231 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3239 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3242 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.3292 	DEBUG 	Upload of Texture Font fontname complete
+8.3448 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3457 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3465 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3473 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3476 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.3516 	DEBUG 	Upload of Texture Font fontname complete
+8.3671 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3681 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3691 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3693 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.3735 	DEBUG 	Upload of Texture Font fontname complete
+8.3889 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3892 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.3936 	DEBUG 	Upload of Texture Font fontname complete
+8.4081 	EXP 	Created slider_trustworthy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_trustworthy', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+8.4207 	EXP 	Created text_trustworthy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_trustworthy', opacity=1.0, ori=0.0, pos=array([0.  , 0.05]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.4220 	EXP 	window1: mouseVisible = True
+8.5052 	EXP 	Created slider_aggressive = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_aggressive', opacity=None, ori=0.0, pos=array([ 0.  , -0.25]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+8.5084 	EXP 	Created text_aggressive = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_aggressive', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.15]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.5085 	EXP 	window1: mouseVisible = True
+8.5173 	EXP 	Created Confirm = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=True, mask=None, maskParams=None, name='Confirm', opacity=1.0, ori=0.0, pos=array([ 0. , -0.4]), size=array([0.2, 0.1]), texRes=128.0, units='height', win=Window(...))
+8.5181 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.5480 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.5525 	DEBUG 	Read excel file with openpyxl: Rating_BlockOrder.xlsx
+8.5528 	EXP 	Imported Rating_BlockOrder.xlsx as conditions, 19 conditions, 1 params
+8.5533 	EXP 	Created sequence: fullRandom, trialTypes=19, nReps=1, seed=None
+8.5535 	EXP 	New trial (rep=0, index=0): {'faceImages': 'images\\FOREHEAD_CFD_BF_214_308_N.png'}
+8.5580 	DEBUG 	Read excel file with openpyxl: faceImages.xlsx
+8.5590 	EXP 	Imported faceImages.xlsx as conditions, 95 conditions, 1 params
+8.5609 	EXP 	Created sequence: random, trialTypes=95, nReps=95, seed=None
+8.5612 	EXP 	New trial (rep=0, index=0): {'faceImages': 'images\\ RCHEEK_CFD_AF_231_357_N.png'}
+8.5707 	EXP 	slider_trustworthy: autoLog = True
+8.5707 	EXP 	slider_trustworthy: markerPos = None
+8.5707 	EXP 	slider_trustworthy: styleTweaks = []
+8.5707 	EXP 	slider_trustworthy: styleTweaks = []
+8.5707 	EXP 	slider_trustworthy: styleTweaks = ['labels45']
+8.5707 	EXP 	slider_trustworthy: styleTweaks = ['labels45']
+8.5707 	EXP 	slider_trustworthy: contrast = 1.0
+8.5707 	EXP 	slider_trustworthy: autoLog = True
+8.5707 	EXP 	slider_aggressive: autoLog = True
+8.5707 	EXP 	slider_aggressive: markerPos = None
+8.5707 	EXP 	slider_aggressive: styleTweaks = []
+8.5707 	EXP 	slider_aggressive: styleTweaks = []
+8.5707 	EXP 	slider_aggressive: styleTweaks = []
+8.5707 	EXP 	slider_aggressive: styleTweaks = []
+8.5707 	EXP 	slider_aggressive: contrast = 1.0
+8.5707 	EXP 	slider_aggressive: autoLog = True
+8.5707 	EXP 	text: text = ''
+8.5707 	EXP 	text: autoDraw = True
+9.2050 	EXP 	New trial (rep=0, index=1): {'faceImages': 'images\\ NASALTIP_136_M_M_N_A.png\n'}
+9.2116 	EXP 	text: autoDraw = False
+9.2116 	EXP 	text: autoDraw = False
+9.2116 	EXP 	text: text = ''
+9.2116 	EXP 	text: autoDraw = True
+9.8717 	EXP 	New trial (rep=0, index=2): {'faceImages': 'images\\FOREHEAD_035_M_F_N_A.png'}
+9.8778 	EXP 	text: autoDraw = False
+9.8778 	EXP 	text: autoDraw = False
+9.8778 	EXP 	text: text = ''
+9.8778 	EXP 	text: autoDraw = True
+10.3997 	EXP 	New trial (rep=0, index=3): {'faceImages': 'images\\ RCHEEK_CFD_WM_212_097_N.png'}
+10.4055 	EXP 	text: autoDraw = False
+10.4055 	EXP 	text: autoDraw = False
+10.4055 	EXP 	text: text = ''
+10.4055 	EXP 	text: autoDraw = True
+11.1146 	EXP 	New trial (rep=0, index=4): {'faceImages': 'images\\ NASALTIP_CFD_AF_237_223_N.png'}
+11.1203 	EXP 	text: autoDraw = False
+11.1203 	EXP 	text: autoDraw = False
+11.1203 	EXP 	text: text = ''
+11.1203 	EXP 	text: autoDraw = True
+11.6492 	EXP 	New trial (rep=0, index=5): {'faceImages': 'images\\ RCHEEK_136_M_M_N_A.png\n'}
+11.6550 	EXP 	text: autoDraw = False
+11.6550 	EXP 	text: autoDraw = False
+11.6550 	EXP 	text: text = ''
+11.6550 	EXP 	text: autoDraw = True
+12.6285 	EXP 	New trial (rep=0, index=6): {'faceImages': 'images\\ LCHEEK_CFD_WF_002_004_N.png\n'}
+12.6343 	EXP 	text: autoDraw = False
+12.6343 	EXP 	text: autoDraw = False
+12.6343 	EXP 	text: text = ''
+12.6343 	EXP 	text: autoDraw = True
+13.1917 	EXP 	New trial (rep=0, index=7): {'faceImages': 'images\\ RCHEEK_CFD_BF_214_308_N.png'}
+13.1981 	EXP 	text: autoDraw = False
+13.1981 	EXP 	text: autoDraw = False
+13.1981 	EXP 	text: text = ''
+13.1981 	EXP 	text: autoDraw = True
+14.1634 	EXP 	New trial (rep=0, index=8): {'faceImages': 'images\\ LIP_CFD_BM_213_134_N.png'}
+14.1694 	EXP 	text: autoDraw = False
+14.1694 	EXP 	text: autoDraw = False
+14.1694 	EXP 	text: text = ''
+14.1694 	EXP 	text: autoDraw = True
+15.1148 	EXP 	New trial (rep=0, index=9): {'faceImages': 'images\\ NASALTIP_CFD_BF_224_002_N.png'}
+15.1206 	EXP 	text: autoDraw = False
+15.1206 	EXP 	text: autoDraw = False
+15.1206 	EXP 	text: text = ''
+15.1206 	EXP 	text: autoDraw = True
+16.0935 	EXP 	New trial (rep=0, index=10): {'faceImages': 'images\\ RCHEEK_CFD_BM_213_134_N.png'}
+16.0997 	EXP 	text: autoDraw = False
+16.0997 	EXP 	text: autoDraw = False
+16.0997 	EXP 	text: text = ''
+16.0997 	EXP 	text: autoDraw = True
+16.9893 	EXP 	New trial (rep=0, index=11): {'faceImages': 'images\\ NASALTIP_CFD_BM_234_172_N.png\n'}
+16.9958 	EXP 	text: autoDraw = False
+16.9958 	EXP 	text: autoDraw = False
+16.9958 	EXP 	text: text = ''
+16.9958 	EXP 	text: autoDraw = True
+17.6923 	EXP 	New trial (rep=0, index=12): {'faceImages': 'images\\ NASALTIP_CFD_LM_203_026_N.png'}
+17.6978 	EXP 	text: autoDraw = False
+17.6978 	EXP 	text: autoDraw = False
+17.6978 	EXP 	text: text = ''
+17.6978 	EXP 	text: autoDraw = True
+18.5169 	EXP 	New trial (rep=0, index=13): {'faceImages': 'images\\ RCHEEK_CFD_WF_200_099_N.png'}
+18.5233 	EXP 	text: autoDraw = False
+18.5233 	EXP 	text: autoDraw = False
+18.5233 	EXP 	text: text = ''
+18.5233 	EXP 	text: autoDraw = True
+19.3578 	EXP 	New trial (rep=0, index=14): {'faceImages': 'images\\ LCHEEK_CFD_AF_245_143_N.png'}
+19.3638 	EXP 	text: autoDraw = False
+19.3638 	EXP 	text: autoDraw = False
+19.3638 	EXP 	text: text = ''
+19.3638 	EXP 	text: autoDraw = True
+20.3156 	EXP 	New trial (rep=0, index=15): {'faceImages': 'images\\ LIP_CFD_AM_233_236_N.png\n'}
+20.3216 	EXP 	text: autoDraw = False
+20.3216 	EXP 	text: autoDraw = False
+20.3216 	EXP 	text: text = ''
+20.3216 	EXP 	text: autoDraw = True
+21.0590 	EXP 	New trial (rep=0, index=16): {'faceImages': 'images\\ NASALTIP_087_M_M_N_A.png'}
+21.0647 	EXP 	text: autoDraw = False
+21.0647 	EXP 	text: autoDraw = False
+21.0647 	EXP 	text: text = ''
+21.0647 	EXP 	text: autoDraw = True
+21.6348 	EXP 	New trial (rep=0, index=17): {'faceImages': 'images\\FOREHEAD_CFD_BF_214_308_N.png'}
+21.6411 	EXP 	text: autoDraw = False
+21.6411 	EXP 	text: autoDraw = False
+21.6411 	EXP 	text: text = ''
+21.6411 	EXP 	text: autoDraw = True
+22.3651 	EXP 	New trial (rep=0, index=18): {'faceImages': 'images\\ NASALTIP_CFD_BF_214_308_N.png'}
+22.3711 	EXP 	text: autoDraw = False
+22.3711 	EXP 	text: autoDraw = False
+22.3711 	EXP 	text: text = ''
+22.3711 	EXP 	text: autoDraw = True
+23.1634 	EXP 	New trial (rep=0, index=19): {'faceImages': 'images\\ LCHEEK_CFD_AF_231_357_N.png'}
+23.1691 	EXP 	text: autoDraw = False
+23.1691 	EXP 	text: autoDraw = False
+23.1691 	EXP 	text: text = ''
+23.1691 	EXP 	text: autoDraw = True
+23.9203 	EXP 	New trial (rep=0, index=20): {'faceImages': 'images\\FOREHEAD_CFD_WM_212_097_N.png'}
+23.9264 	EXP 	text: autoDraw = False
+23.9264 	EXP 	text: autoDraw = False
+23.9264 	EXP 	text: text = ''
+23.9264 	EXP 	text: autoDraw = True
+24.9061 	EXP 	New trial (rep=0, index=21): {'faceImages': 'images\\ LIP_CFD_WF_200_099_N.png'}
+24.9123 	EXP 	text: autoDraw = False
+24.9123 	EXP 	text: autoDraw = False
+24.9123 	EXP 	text: text = ''
+24.9123 	EXP 	text: autoDraw = True
+25.6349 	EXP 	New trial (rep=0, index=22): {'faceImages': 'images\\FOREHEAD_CFD_LM_203_026_N.png'}
+25.6419 	EXP 	text: autoDraw = False
+25.6419 	EXP 	text: autoDraw = False
+25.6419 	EXP 	text: text = ''
+25.6419 	EXP 	text: autoDraw = True
+26.3781 	EXP 	New trial (rep=0, index=23): {'faceImages': 'images\\ LCHEEK_CFD_AF_237_223_N.png'}
+26.3841 	EXP 	text: autoDraw = False
+26.3841 	EXP 	text: autoDraw = False
+26.3841 	EXP 	text: text = ''
+26.3841 	EXP 	text: autoDraw = True
+27.0951 	EXP 	New trial (rep=0, index=24): {'faceImages': 'images\\ LIP_CFD_LF_224_176_N.png'}
+27.1004 	EXP 	text: autoDraw = False
+27.1004 	EXP 	text: autoDraw = False
+27.1004 	EXP 	text: text = ''
+27.1004 	EXP 	text: autoDraw = True
+28.0793 	EXP 	New trial (rep=0, index=25): {'faceImages': 'images\\ NASALTIP_CFD_AF_231_357_N.png'}
+28.0856 	EXP 	text: autoDraw = False
+28.0856 	EXP 	text: autoDraw = False
+28.0856 	EXP 	text: text = ''
+28.0856 	EXP 	text: autoDraw = True
+28.6283 	EXP 	New trial (rep=0, index=26): {'faceImages': 'images\\ RCHEEK_CFD_LF_224_176_N.png'}
+28.6340 	EXP 	text: autoDraw = False
+28.6340 	EXP 	text: autoDraw = False
+28.6340 	EXP 	text: text = ''
+28.6340 	EXP 	text: autoDraw = True
+29.5518 	EXP 	New trial (rep=0, index=27): {'faceImages': 'images\\ LCHEEK_CFD_WF_250_167_N.png'}
+29.5580 	EXP 	text: autoDraw = False
+29.5580 	EXP 	text: autoDraw = False
+29.5580 	EXP 	text: text = ''
+29.5580 	EXP 	text: autoDraw = True
+30.1074 	EXP 	New trial (rep=0, index=28): {'faceImages': 'images\\ NASALTIP_CFD_WF_250_167_N.png'}
+30.1085 	DATA 	Mouse: Left button down, pos=(801,580)
+30.1134 	EXP 	text: autoDraw = False
+30.1134 	EXP 	text: autoDraw = False
+30.1134 	EXP 	text: text = ''
+30.1134 	EXP 	text: autoDraw = True
+30.2115 	DATA 	Mouse:  Left button up, pos=(801,580)
+30.8295 	EXP 	New trial (rep=0, index=29): {'faceImages': 'images\\ NASALTIP_CFD_LM_201_057_N.png'}
+30.8353 	EXP 	text: autoDraw = False
+30.8353 	EXP 	text: autoDraw = False
+30.8353 	EXP 	text: text = ''
+30.8353 	EXP 	text: autoDraw = True
+31.4616 	EXP 	New trial (rep=0, index=30): {'faceImages': 'images\\ LIP_CFD_BF_224_002_N.png'}
+31.4677 	EXP 	text: autoDraw = False
+31.4677 	EXP 	text: autoDraw = False
+31.4677 	EXP 	text: text = ''
+31.4677 	EXP 	text: autoDraw = True
+32.1771 	DATA 	Mouse: Left button down, pos=(1016,549)
+32.2259 	EXP 	New trial (rep=0, index=31): {'faceImages': 'images\\ LIP_CFD_WF_002_004_N.png\n'}
+32.2323 	EXP 	text: autoDraw = False
+32.2323 	EXP 	text: autoDraw = False
+32.2323 	EXP 	text: text = ''
+32.2323 	EXP 	text: autoDraw = True
+32.3438 	DATA 	Mouse:  Left button up, pos=(1016,549)
+32.8015 	EXP 	New trial (rep=0, index=32): {'faceImages': 'images\\ LIP_CFD_WF_250_167_N.png'}
+32.8080 	EXP 	text: autoDraw = False
+32.8080 	EXP 	text: autoDraw = False
+32.8080 	EXP 	text: text = ''
+32.8080 	EXP 	text: autoDraw = True
+32.9684 	DATA 	Mouse: Left button down, pos=(508,513)
+33.1211 	DATA 	Mouse:  Left button up, pos=(508,513)
+33.4965 	EXP 	New trial (rep=0, index=33): {'faceImages': 'images\\ LCHEEK_CFD_BM_213_134_N.png'}
+33.5036 	EXP 	text: autoDraw = False
+33.5036 	EXP 	text: autoDraw = False
+33.5036 	EXP 	text: text = ''
+33.5036 	EXP 	text: autoDraw = True
+33.5946 	DATA 	Mouse: Left button down, pos=(857,164)
+33.7531 	DATA 	Mouse:  Left button up, pos=(857,164)
+34.1639 	EXP 	New trial (rep=0, index=34): {'faceImages': 'images\\FOREHEAD_CFD_WF_200_099_N.png'}
+34.1688 	EXP 	text: autoDraw = False
+34.1688 	EXP 	text: autoDraw = False
+34.1688 	EXP 	text: text = ''
+34.1688 	EXP 	text: autoDraw = True
+34.2463 	DATA 	Mouse: Left button down, pos=(1286,440)
+34.3787 	DATA 	Mouse:  Left button up, pos=(1286,440)
+34.7111 	EXP 	New trial (rep=0, index=35): {'faceImages': 'images\\FOREHEAD_006_M_F_N_A.png'}
+34.7174 	EXP 	text: autoDraw = False
+34.7174 	EXP 	text: autoDraw = False
+34.7174 	EXP 	text: text = ''
+34.7174 	EXP 	text: autoDraw = True
+34.8360 	DATA 	Mouse: Left button down, pos=(805,626)
+34.9407 	DATA 	Mouse:  Left button up, pos=(805,626)
+35.6552 	EXP 	New trial (rep=0, index=36): {'faceImages': 'images\\ LCHEEK_CFD_BF_214_308_N.png'}
+35.6622 	EXP 	text: autoDraw = False
+35.6622 	EXP 	text: autoDraw = False
+35.6622 	EXP 	text: text = ''
+35.6622 	EXP 	text: autoDraw = True
+35.6637 	DATA 	Keypress: escape
+36.1603 	EXP 	window1: mouseVisible = True
+36.1604 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+36.1625 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-07_19h59.28.281.psydat
+36.1649 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-07_19h59.28.281.csv'

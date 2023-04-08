@@ -1,0 +1,22 @@
+3.8666 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+3.8725 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+6.7881 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000124B2AF2D90>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000124B4AD6280>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7882 	EXP 	window1: mouseVisible = True
+6.7883 	EXP 	window1: mouseVisible = False
+6.7883 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.7883 	EXP 	window1: recordFrameIntervals = False
+6.8576 	EXP 	window1: recordFrameIntervals = True
+6.9338 	EXP 	Screen (0) actual frame rate measured at 144.47Hz
+6.9338 	EXP 	window1: recordFrameIntervals = False
+8.5415 	INFO 	keyboard.Keyboard is using iohub backend.
+8.6127 	EXP 	Created ques_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='ques_instr', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.6129 	EXP 	window1: mouseVisible = True
+8.6423 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.6504 	EXP 	ques_instr: autoDraw = True
+9.1172 	DATA 	Mouse: Left button down, pos=(804,562)
+9.2199 	DATA 	Mouse:  Left button up, pos=(804,562)
+11.2812 	DATA 	Mouse: Left button down, pos=(958,507)
+12.0182 	EXP 	window1: mouseVisible = True
+12.0190 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+12.0197 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_14h20.19.599.psydat
+12.0202 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_14h20.19.599.csv'

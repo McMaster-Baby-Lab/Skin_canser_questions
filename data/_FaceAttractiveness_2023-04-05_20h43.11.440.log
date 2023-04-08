@@ -1,0 +1,81 @@
+3.8099 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+3.8171 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+5.1493 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000225AD1F3D30>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000225B27F71F0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.1494 	EXP 	window1: mouseVisible = True
+5.1495 	EXP 	window1: mouseVisible = False
+5.1496 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.1496 	EXP 	window1: recordFrameIntervals = False
+5.2255 	EXP 	window1: recordFrameIntervals = True
+5.3019 	EXP 	Screen (0) actual frame rate measured at 146.32Hz
+5.3019 	EXP 	window1: recordFrameIntervals = False
+6.9105 	INFO 	keyboard.Keyboard is using iohub backend.
+6.9140 	EXP 	window1: mouseVisible = True
+6.9376 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9393 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9409 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9440 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9454 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9470 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9488 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9504 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9520 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9535 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9550 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9552 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.9669 	DEBUG 	Upload of Texture Font fontname complete
+6.9834 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9837 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.9893 	DEBUG 	Upload of Texture Font fontname complete
+7.0059 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0079 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0098 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0116 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0132 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0150 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0152 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.0195 	DEBUG 	Upload of Texture Font fontname complete
+7.0358 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0361 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.0408 	DEBUG 	Upload of Texture Font fontname complete
+7.0572 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0591 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0593 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.0641 	DEBUG 	Upload of Texture Font fontname complete
+7.0757 	EXP 	Created slider_rad_therapy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_rad_therapy', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.2]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+7.1272 	EXP 	Created text_rad_therapy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_rad_therapy', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.1285 	EXP 	window1: mouseVisible = True
+7.2083 	EXP 	Created slider_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_surgery', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+7.2136 	EXP 	Created text_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_surgery', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.2480 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.2977 	EXP 	slider_rad_therapy: autoLog = True
+7.2977 	EXP 	slider_rad_therapy: markerPos = 3
+7.2977 	EXP 	slider_rad_therapy: styleTweaks = []
+7.2977 	EXP 	slider_rad_therapy: styleTweaks = []
+7.2977 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+7.2977 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+7.2977 	EXP 	slider_rad_therapy: contrast = 1.0
+7.2977 	EXP 	slider_rad_therapy: autoLog = True
+7.2977 	EXP 	slider_surgery: autoLog = True
+7.2977 	EXP 	slider_surgery: markerPos = 3
+7.2977 	EXP 	slider_surgery: styleTweaks = []
+7.2977 	EXP 	slider_surgery: styleTweaks = []
+7.2977 	EXP 	slider_surgery: styleTweaks = ['labels45']
+7.2977 	EXP 	slider_surgery: styleTweaks = ['labels45']
+7.2977 	EXP 	slider_surgery: contrast = 1.0
+7.2977 	EXP 	slider_surgery: autoLog = True
+7.2977 	EXP 	slider_rad_therapy: markerPos = None
+7.2977 	EXP 	slider_rad_therapy: markerPos = 3
+7.2977 	EXP 	slider_surgery: markerPos = None
+7.2977 	EXP 	slider_surgery: markerPos = 3
+7.2977 	EXP 	slider_rad_therapy: autoDraw = True
+7.2977 	EXP 	text_rad_therapy: autoDraw = True
+7.2977 	EXP 	slider_surgery: autoDraw = True
+7.2977 	EXP 	text_surgery: autoDraw = True
+20.7537 	DATA 	Mouse: Left button down, pos=(718,379)
+20.8812 	DATA 	Mouse:  Left button up, pos=(718,379)
+21.7254 	DATA 	Keypress: escape
+22.4085 	EXP 	window1: mouseVisible = True
+22.4086 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+22.4093 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_20h43.11.440.psydat
+22.4101 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_20h43.11.440.csv'

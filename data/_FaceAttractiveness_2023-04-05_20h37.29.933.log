@@ -1,0 +1,64 @@
+4.3298 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+4.3371 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+5.7474 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E95D442D60>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E960E751C0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.7478 	EXP 	window1: mouseVisible = True
+5.7480 	EXP 	window1: mouseVisible = False
+5.7481 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.7481 	EXP 	window1: recordFrameIntervals = False
+5.8167 	EXP 	window1: recordFrameIntervals = True
+5.8926 	EXP 	Screen (0) actual frame rate measured at 143.19Hz
+5.8927 	EXP 	window1: recordFrameIntervals = False
+7.6035 	INFO 	keyboard.Keyboard is using iohub backend.
+7.6072 	EXP 	window1: mouseVisible = True
+7.6295 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6305 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6313 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6322 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6328 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6342 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6351 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6360 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6368 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6376 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6383 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6385 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.6484 	DEBUG 	Upload of Texture Font fontname complete
+7.6636 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6639 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.6690 	DEBUG 	Upload of Texture Font fontname complete
+7.6843 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6853 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6863 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6872 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6879 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6888 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6890 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.6939 	DEBUG 	Upload of Texture Font fontname complete
+7.7100 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.7102 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.7151 	DEBUG 	Upload of Texture Font fontname complete
+7.7304 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.7314 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.7316 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.7364 	DEBUG 	Upload of Texture Font fontname complete
+7.7479 	EXP 	Created slider_2 = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_2', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+7.8000 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0. , 0.5]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.8311 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.8663 	EXP 	slider_2: autoLog = True
+7.8663 	EXP 	slider_2: markerPos = 3
+7.8663 	EXP 	slider_2: styleTweaks = []
+7.8663 	EXP 	slider_2: styleTweaks = []
+7.8663 	EXP 	slider_2: styleTweaks = ['labels45']
+7.8663 	EXP 	slider_2: styleTweaks = ['labels45']
+7.8663 	EXP 	slider_2: contrast = 1.0
+7.8663 	EXP 	slider_2: autoLog = True
+7.8663 	EXP 	slider_2: markerPos = None
+7.8663 	EXP 	slider_2: markerPos = 3
+7.8663 	EXP 	slider_2: autoDraw = True
+7.8663 	EXP 	text_2: autoDraw = True
+18.0683 	DATA 	Keypress: escape
+18.5264 	EXP 	window1: mouseVisible = True
+18.5265 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+18.5278 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_20h37.29.933.psydat
+18.5289 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_20h37.29.933.csv'

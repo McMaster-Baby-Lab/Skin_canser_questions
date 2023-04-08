@@ -1,0 +1,17 @@
+7.5917 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+8.8679 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000015FEDA66D90>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000015FF335C1F0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.8680 	EXP 	window1: mouseVisible = True
+8.8681 	EXP 	window1: mouseVisible = False
+8.8681 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.8681 	EXP 	window1: recordFrameIntervals = False
+8.9357 	EXP 	window1: recordFrameIntervals = True
+9.0122 	EXP 	Screen (0) actual frame rate measured at 143.88Hz
+9.0122 	EXP 	window1: recordFrameIntervals = False
+10.7260 	INFO 	keyboard.Keyboard is using iohub backend.
+10.8803 	EXP 	Created ques_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='ques_instr', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.8807 	EXP 	window1: mouseVisible = True
+10.8808 	INFO 	Importing items...
+10.9050 	EXP 	window1: mouseVisible = True
+10.9056 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+10.9063 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/w_FaceAttractiveness_2023-04-03_20h15.52.456.psydat
+10.9074 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/w_FaceAttractiveness_2023-04-03_20h15.52.456.csv'

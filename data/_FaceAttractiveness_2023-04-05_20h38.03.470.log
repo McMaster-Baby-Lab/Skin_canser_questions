@@ -1,0 +1,438 @@
+4.1884 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+4.1951 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+5.4006 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000028A39AE2D90>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000028A3A144220>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.4007 	EXP 	window1: mouseVisible = True
+5.4008 	EXP 	window1: mouseVisible = False
+5.4008 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.4008 	EXP 	window1: recordFrameIntervals = False
+5.4707 	EXP 	window1: recordFrameIntervals = True
+5.5466 	EXP 	Screen (0) actual frame rate measured at 143.66Hz
+5.5466 	EXP 	window1: recordFrameIntervals = False
+7.1551 	INFO 	keyboard.Keyboard is using iohub backend.
+7.1585 	EXP 	window1: mouseVisible = True
+7.1819 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1837 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1853 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1871 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1884 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1898 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1914 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1931 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1948 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1964 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1980 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1995 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1997 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.2091 	DEBUG 	Upload of Texture Font fontname complete
+7.2259 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2262 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.2303 	DEBUG 	Upload of Texture Font fontname complete
+7.2466 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2485 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2504 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2522 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2538 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2556 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2558 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.2600 	DEBUG 	Upload of Texture Font fontname complete
+7.2763 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2765 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.2808 	DEBUG 	Upload of Texture Font fontname complete
+7.2970 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2989 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2990 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.3035 	DEBUG 	Upload of Texture Font fontname complete
+7.3152 	EXP 	Created slider_2 = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_2', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+7.3662 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.3954 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.4295 	EXP 	slider_2: autoLog = True
+7.4295 	EXP 	slider_2: markerPos = 3
+7.4295 	EXP 	slider_2: styleTweaks = []
+7.4295 	EXP 	slider_2: styleTweaks = []
+7.4295 	EXP 	slider_2: styleTweaks = ['labels45']
+7.4295 	EXP 	slider_2: styleTweaks = ['labels45']
+7.4295 	EXP 	slider_2: contrast = 1.0
+7.4295 	EXP 	slider_2: autoLog = True
+7.4295 	EXP 	slider_2: markerPos = None
+7.4295 	EXP 	slider_2: markerPos = 3
+7.4295 	EXP 	slider_2: autoDraw = True
+7.4295 	EXP 	text_2: autoDraw = True
+15.7373 	DATA 	Mouse: Left button down, pos=(962,542)
+15.7448 	EXP 	slider_2: markerPos = 3.0074074074074075
+15.7542 	EXP 	slider_2: markerPos = 2.988888888888889
+15.7617 	EXP 	slider_2: markerPos = 2.977777777777778
+15.7700 	EXP 	slider_2: markerPos = 2.9592592592592593
+15.7822 	EXP 	slider_2: markerPos = 2.948148148148148
+15.7900 	EXP 	slider_2: markerPos = 2.937037037037037
+15.7985 	EXP 	slider_2: markerPos = 2.9296296296296296
+15.8060 	EXP 	slider_2: markerPos = 2.9148148148148145
+15.8161 	EXP 	slider_2: markerPos = 2.9148148148148145
+15.8250 	EXP 	slider_2: markerPos = 2.9037037037037035
+15.8338 	EXP 	slider_2: markerPos = 2.8962962962962964
+15.8456 	EXP 	slider_2: markerPos = 2.888888888888889
+15.8541 	EXP 	slider_2: markerPos = 2.8777777777777778
+15.8656 	EXP 	slider_2: markerPos = 2.8666666666666667
+15.8736 	EXP 	slider_2: markerPos = 2.840740740740741
+15.8820 	EXP 	slider_2: markerPos = 2.833333333333333
+15.8932 	EXP 	slider_2: markerPos = 2.8074074074074074
+15.9012 	EXP 	slider_2: markerPos = 2.8
+15.9097 	EXP 	slider_2: markerPos = 2.7888888888888888
+15.9212 	EXP 	slider_2: markerPos = 2.7777777777777777
+15.9287 	EXP 	slider_2: markerPos = 2.7444444444444445
+15.9374 	EXP 	slider_2: markerPos = 2.737037037037037
+15.9446 	EXP 	slider_2: markerPos = 2.7074074074074073
+15.9546 	EXP 	slider_2: markerPos = 2.6925925925925926
+15.9629 	EXP 	slider_2: markerPos = 2.6925925925925926
+15.9718 	EXP 	slider_2: markerPos = 2.6703703703703705
+15.9843 	EXP 	slider_2: markerPos = 2.6444444444444444
+15.9928 	EXP 	slider_2: markerPos = 2.6333333333333333
+16.0005 	EXP 	slider_2: markerPos = 2.6259259259259258
+16.0111 	EXP 	slider_2: markerPos = 2.6222222222222222
+16.0198 	EXP 	slider_2: markerPos = 2.6185185185185187
+16.0292 	EXP 	slider_2: markerPos = 2.6148148148148147
+16.0381 	EXP 	slider_2: markerPos = 2.6074074074074076
+16.0464 	EXP 	slider_2: markerPos = 2.6
+16.0548 	EXP 	slider_2: markerPos = 2.5777777777777775
+16.0618 	EXP 	slider_2: markerPos = 2.5592592592592593
+16.0724 	EXP 	slider_2: markerPos = 2.533333333333333
+16.0815 	EXP 	slider_2: markerPos = 2.522222222222222
+16.0901 	EXP 	slider_2: markerPos = 2.477777777777778
+16.1017 	EXP 	slider_2: markerPos = 2.4703703703703703
+16.1099 	EXP 	slider_2: markerPos = 2.4592592592592593
+16.1375 	EXP 	slider_2: markerPos = 2.448148148148148
+16.1502 	EXP 	slider_2: markerPos = 2.4185185185185185
+16.1585 	EXP 	slider_2: markerPos = 2.411111111111111
+16.1711 	EXP 	slider_2: markerPos = 2.4037037037037035
+16.1787 	EXP 	slider_2: markerPos = 2.3851851851851853
+16.1874 	EXP 	slider_2: markerPos = 2.3666666666666667
+16.1990 	EXP 	slider_2: markerPos = 2.3555555555555556
+16.2075 	EXP 	slider_2: markerPos = 2.3333333333333335
+16.2196 	EXP 	slider_2: markerPos = 2.322222222222222
+16.2276 	EXP 	slider_2: markerPos = 2.2925925925925927
+16.2368 	EXP 	slider_2: markerPos = 2.2814814814814817
+16.2476 	EXP 	slider_2: markerPos = 2.2666666666666666
+16.2580 	EXP 	slider_2: markerPos = 2.2666666666666666
+16.2677 	EXP 	slider_2: markerPos = 2.251851851851852
+16.2775 	EXP 	slider_2: markerPos = 2.2444444444444445
+16.2853 	EXP 	slider_2: markerPos = 2.225925925925926
+16.2952 	EXP 	slider_2: markerPos = 2.2111111111111112
+16.3034 	EXP 	slider_2: markerPos = 2.2037037037037037
+16.3120 	EXP 	slider_2: markerPos = 2.188888888888889
+16.3191 	EXP 	slider_2: markerPos = 2.1555555555555554
+16.3302 	EXP 	slider_2: markerPos = 2.1444444444444444
+16.3387 	EXP 	slider_2: markerPos = 2.137037037037037
+16.3470 	EXP 	slider_2: markerPos = 2.111111111111111
+16.3590 	EXP 	slider_2: markerPos = 2.1
+16.3672 	EXP 	slider_2: markerPos = 2.0962962962962965
+16.3791 	EXP 	slider_2: markerPos = 2.085185185185185
+16.3870 	EXP 	slider_2: markerPos = 2.051851851851852
+16.3955 	EXP 	slider_2: markerPos = 2.0407407407407407
+16.4032 	EXP 	slider_2: markerPos = 2.037037037037037
+16.4129 	EXP 	slider_2: markerPos = 2.0296296296296297
+16.4213 	EXP 	slider_2: markerPos = 2.025925925925926
+16.4289 	EXP 	slider_2: markerPos = 2.022222222222222
+16.4378 	EXP 	slider_2: markerPos = 2.022222222222222
+16.4492 	EXP 	slider_2: markerPos = 2.022222222222222
+16.4567 	EXP 	slider_2: markerPos = 2.022222222222222
+16.4653 	EXP 	slider_2: markerPos = 2.022222222222222
+16.4764 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.4842 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.4922 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5042 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5118 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5198 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5321 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5396 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5474 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5598 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5672 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5759 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5880 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.5955 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.6037 	EXP 	slider_2: markerPos = 2.0185185185185186
+16.6155 	EXP 	slider_2: markerPos = 2.022222222222222
+16.6234 	EXP 	slider_2: markerPos = 2.0814814814814815
+16.6317 	EXP 	slider_2: markerPos = 2.1074074074074076
+16.6429 	EXP 	slider_2: markerPos = 2.1444444444444444
+16.6510 	EXP 	slider_2: markerPos = 2.185185185185185
+16.6593 	EXP 	slider_2: markerPos = 2.225925925925926
+16.6669 	EXP 	slider_2: markerPos = 2.262962962962963
+16.6768 	EXP 	slider_2: markerPos = 2.2777777777777777
+16.6864 	EXP 	slider_2: markerPos = 2.303703703703704
+16.6985 	EXP 	slider_2: markerPos = 2.3185185185185184
+16.7070 	EXP 	slider_2: markerPos = 2.3296296296296295
+16.7192 	EXP 	slider_2: markerPos = 2.3333333333333335
+16.7270 	EXP 	slider_2: markerPos = 2.348148148148148
+16.7348 	EXP 	slider_2: markerPos = 2.3666666666666667
+16.7473 	EXP 	slider_2: markerPos = 2.4185185185185185
+16.7547 	EXP 	slider_2: markerPos = 2.4592592592592593
+16.7637 	EXP 	slider_2: markerPos = 2.4814814814814814
+16.7751 	EXP 	slider_2: markerPos = 2.5
+16.7829 	EXP 	slider_2: markerPos = 2.525925925925926
+16.7912 	EXP 	slider_2: markerPos = 2.551851851851852
+16.8028 	EXP 	slider_2: markerPos = 2.574074074074074
+16.8103 	EXP 	slider_2: markerPos = 2.6444444444444444
+16.8182 	EXP 	slider_2: markerPos = 2.688888888888889
+16.8306 	EXP 	slider_2: markerPos = 2.7333333333333334
+16.8390 	EXP 	slider_2: markerPos = 2.7814814814814817
+16.8519 	EXP 	slider_2: markerPos = 2.8
+16.8606 	EXP 	slider_2: markerPos = 2.888888888888889
+16.8723 	EXP 	slider_2: markerPos = 2.9296296296296296
+16.8800 	EXP 	slider_2: markerPos = 2.9518518518518517
+16.8881 	EXP 	slider_2: markerPos = 3.0074074074074075
+16.9001 	EXP 	slider_2: markerPos = 3.062962962962963
+16.9078 	EXP 	slider_2: markerPos = 3.148148148148148
+16.9162 	EXP 	slider_2: markerPos = 3.2111111111111112
+16.9275 	EXP 	slider_2: markerPos = 3.237037037037037
+16.9355 	EXP 	slider_2: markerPos = 3.237037037037037
+16.9439 	EXP 	slider_2: markerPos = 3.3074074074074074
+16.9556 	EXP 	slider_2: markerPos = 3.348148148148148
+16.9639 	EXP 	slider_2: markerPos = 3.3666666666666667
+16.9761 	EXP 	slider_2: markerPos = 3.4296296296296296
+16.9837 	EXP 	slider_2: markerPos = 3.474074074074074
+16.9917 	EXP 	slider_2: markerPos = 3.5
+17.0040 	EXP 	slider_2: markerPos = 3.5481481481481483
+17.0131 	EXP 	slider_2: markerPos = 3.6185185185185187
+17.0252 	EXP 	slider_2: markerPos = 3.659259259259259
+17.0352 	EXP 	slider_2: markerPos = 3.6703703703703705
+17.0444 	EXP 	slider_2: markerPos = 3.6925925925925926
+17.0568 	EXP 	slider_2: markerPos = 3.7074074074074073
+17.0670 	EXP 	slider_2: markerPos = 3.7333333333333334
+17.0753 	EXP 	slider_2: markerPos = 3.7444444444444445
+17.0878 	EXP 	slider_2: markerPos = 3.7666666666666666
+17.0957 	EXP 	slider_2: markerPos = 3.8
+17.1041 	EXP 	slider_2: markerPos = 3.825925925925926
+17.1157 	EXP 	slider_2: markerPos = 3.848148148148148
+17.1236 	EXP 	slider_2: markerPos = 3.8703703703703702
+17.1325 	EXP 	slider_2: markerPos = 3.888888888888889
+17.1434 	EXP 	slider_2: markerPos = 3.9037037037037035
+17.1517 	EXP 	slider_2: markerPos = 3.9333333333333336
+17.1640 	EXP 	slider_2: markerPos = 3.9555555555555557
+17.1722 	EXP 	slider_2: markerPos = 3.966666666666667
+17.1790 	EXP 	slider_2: markerPos = 3.9962962962962965
+17.1873 	EXP 	slider_2: markerPos = 4.014814814814815
+17.1944 	EXP 	slider_2: markerPos = 4.022222222222222
+17.2050 	EXP 	slider_2: markerPos = 4.033333333333333
+17.2134 	EXP 	slider_2: markerPos = 4.040740740740741
+17.2226 	EXP 	slider_2: markerPos = 4.044444444444444
+17.2344 	EXP 	slider_2: markerPos = 4.044444444444444
+17.2433 	EXP 	slider_2: markerPos = 4.048148148148148
+17.2528 	EXP 	slider_2: markerPos = 4.051851851851852
+17.2615 	EXP 	slider_2: markerPos = 4.051851851851852
+17.2695 	EXP 	slider_2: markerPos = 4.055555555555555
+17.2766 	EXP 	slider_2: markerPos = 4.059259259259259
+17.2875 	EXP 	slider_2: markerPos = 4.059259259259259
+17.2959 	EXP 	slider_2: markerPos = 4.062962962962963
+17.3036 	EXP 	slider_2: markerPos = 4.062962962962963
+17.3120 	EXP 	slider_2: markerPos = 4.066666666666666
+17.3247 	EXP 	slider_2: markerPos = 4.07037037037037
+17.3333 	EXP 	slider_2: markerPos = 4.07037037037037
+17.3447 	EXP 	slider_2: markerPos = 4.0814814814814815
+17.3530 	EXP 	slider_2: markerPos = 4.122222222222222
+17.3657 	EXP 	slider_2: markerPos = 4.148148148148148
+17.3753 	EXP 	slider_2: markerPos = 4.177777777777778
+17.3828 	EXP 	slider_2: markerPos = 4.229629629629629
+17.3924 	EXP 	slider_2: markerPos = 4.2555555555555555
+17.4010 	EXP 	slider_2: markerPos = 4.274074074074074
+17.4099 	EXP 	slider_2: markerPos = 4.292592592592593
+17.4210 	EXP 	slider_2: markerPos = 4.307407407407407
+17.4290 	EXP 	slider_2: markerPos = 4.333333333333333
+17.4358 	EXP 	slider_2: markerPos = 4.355555555555556
+17.4464 	EXP 	slider_2: markerPos = 4.4037037037037035
+17.4551 	EXP 	slider_2: markerPos = 4.440740740740741
+17.4630 	EXP 	slider_2: markerPos = 4.548148148148148
+17.4721 	EXP 	slider_2: markerPos = 4.5851851851851855
+17.4840 	EXP 	slider_2: markerPos = 4.62962962962963
+17.4927 	EXP 	slider_2: markerPos = 4.648148148148148
+17.5047 	EXP 	slider_2: markerPos = 4.681481481481482
+17.5126 	EXP 	slider_2: markerPos = 4.7
+17.5196 	EXP 	slider_2: markerPos = 4.707407407407407
+17.5281 	EXP 	slider_2: markerPos = 4.707407407407407
+17.5381 	EXP 	slider_2: markerPos = 4.707407407407407
+17.5459 	EXP 	slider_2: markerPos = 4.711111111111111
+17.5542 	EXP 	slider_2: markerPos = 4.711111111111111
+17.5669 	EXP 	slider_2: markerPos = 4.718518518518518
+17.5762 	EXP 	slider_2: markerPos = 4.7592592592592595
+17.5880 	EXP 	slider_2: markerPos = 4.788888888888889
+17.5967 	EXP 	slider_2: markerPos = 4.814814814814815
+17.6081 	EXP 	slider_2: markerPos = 4.848148148148148
+17.6161 	EXP 	slider_2: markerPos = 4.881481481481481
+17.6243 	EXP 	slider_2: markerPos = 4.907407407407407
+17.6313 	EXP 	slider_2: markerPos = 4.92962962962963
+17.6417 	EXP 	slider_2: markerPos = 4.92962962962963
+17.6509 	EXP 	slider_2: markerPos = 4.940740740740741
+17.6594 	EXP 	slider_2: markerPos = 4.951851851851852
+17.6668 	EXP 	slider_2: markerPos = 4.959259259259259
+17.6768 	EXP 	slider_2: markerPos = 4.966666666666667
+17.6856 	EXP 	slider_2: markerPos = 4.966666666666667
+17.6937 	EXP 	slider_2: markerPos = 4.974074074074074
+17.7009 	EXP 	slider_2: markerPos = 4.974074074074074
+17.7117 	EXP 	slider_2: markerPos = 4.981481481481481
+17.7200 	EXP 	slider_2: markerPos = 4.985185185185185
+17.7285 	EXP 	slider_2: markerPos = 4.988888888888889
+17.7406 	EXP 	slider_2: markerPos = 5.003703703703703
+17.7483 	EXP 	slider_2: markerPos = 5.007407407407408
+17.7570 	EXP 	slider_2: markerPos = 5.014814814814814
+17.7683 	EXP 	slider_2: markerPos = 5.018518518518519
+17.7763 	EXP 	slider_2: markerPos = 5.018518518518519
+17.7889 	EXP 	slider_2: markerPos = 5.018518518518519
+17.7983 	EXP 	slider_2: markerPos = 5.018518518518519
+17.8095 	EXP 	slider_2: markerPos = 5.018518518518519
+17.8170 	EXP 	slider_2: markerPos = 5.018518518518519
+17.8246 	EXP 	slider_2: markerPos = 5.018518518518519
+17.8330 	EXP 	slider_2: markerPos = 5.018518518518519
+17.8406 	EXP 	slider_2: markerPos = 5.018518518518519
+17.8507 	EXP 	slider_2: markerPos = 5.014814814814814
+17.8591 	EXP 	slider_2: markerPos = 5.011111111111111
+17.8679 	EXP 	slider_2: markerPos = 5.007407407407408
+17.8794 	EXP 	slider_2: markerPos = 5.003703703703703
+17.8881 	EXP 	slider_2: markerPos = 4.988888888888889
+17.8953 	EXP 	slider_2: markerPos = 4.977777777777778
+17.9060 	EXP 	slider_2: markerPos = 4.951851851851852
+17.9142 	EXP 	slider_2: markerPos = 4.92962962962963
+17.9222 	EXP 	slider_2: markerPos = 4.9
+17.9348 	EXP 	slider_2: markerPos = 4.874074074074074
+17.9428 	EXP 	slider_2: markerPos = 4.811111111111111
+17.9513 	EXP 	slider_2: markerPos = 4.785185185185185
+17.9602 	EXP 	slider_2: markerPos = 4.766666666666667
+17.9695 	EXP 	slider_2: markerPos = 4.7481481481481485
+17.9779 	EXP 	slider_2: markerPos = 4.733333333333333
+17.9903 	EXP 	slider_2: markerPos = 4.711111111111111
+17.9984 	EXP 	slider_2: markerPos = 4.692592592592593
+18.0110 	EXP 	slider_2: markerPos = 4.666666666666667
+18.0195 	EXP 	slider_2: markerPos = 4.640740740740741
+18.0282 	EXP 	slider_2: markerPos = 4.5962962962962965
+18.0393 	EXP 	slider_2: markerPos = 4.559259259259259
+18.0481 	EXP 	slider_2: markerPos = 4.540740740740741
+18.0599 	EXP 	slider_2: markerPos = 4.496296296296296
+18.0690 	EXP 	slider_2: markerPos = 4.4222222222222225
+18.0761 	EXP 	slider_2: markerPos = 4.377777777777778
+18.0871 	EXP 	slider_2: markerPos = 4.355555555555556
+18.0950 	EXP 	slider_2: markerPos = 4.340740740740741
+18.1031 	EXP 	slider_2: markerPos = 4.322222222222222
+18.1154 	EXP 	slider_2: markerPos = 4.307407407407407
+18.1230 	EXP 	slider_2: markerPos = 4.296296296296296
+18.1311 	EXP 	slider_2: markerPos = 4.2592592592592595
+18.1380 	EXP 	slider_2: markerPos = 4.225925925925926
+18.1490 	EXP 	slider_2: markerPos = 4.225925925925926
+18.1579 	EXP 	slider_2: markerPos = 4.1
+18.1660 	EXP 	slider_2: markerPos = 4.007407407407407
+18.1729 	EXP 	slider_2: markerPos = 3.9518518518518517
+18.1839 	EXP 	slider_2: markerPos = 3.8555555555555556
+18.1922 	EXP 	slider_2: markerPos = 3.8074074074074074
+18.2003 	EXP 	slider_2: markerPos = 3.7296296296296294
+18.2123 	EXP 	slider_2: markerPos = 3.6814814814814816
+18.2216 	EXP 	slider_2: markerPos = 3.5814814814814815
+18.2335 	EXP 	slider_2: markerPos = 3.551851851851852
+18.2412 	EXP 	slider_2: markerPos = 3.5185185185185186
+18.2494 	EXP 	slider_2: markerPos = 3.488888888888889
+18.2610 	EXP 	slider_2: markerPos = 3.4703703703703703
+18.2695 	EXP 	slider_2: markerPos = 3.4185185185185185
+18.2822 	EXP 	slider_2: markerPos = 3.3925925925925924
+18.2902 	EXP 	slider_2: markerPos = 3.362962962962963
+18.3026 	EXP 	slider_2: markerPos = 3.3296296296296295
+18.3100 	EXP 	slider_2: markerPos = 3.2444444444444445
+18.3194 	EXP 	slider_2: markerPos = 3.225925925925926
+18.3309 	EXP 	slider_2: markerPos = 3.1777777777777776
+18.3386 	EXP 	slider_2: markerPos = 3.1148148148148147
+18.3470 	EXP 	slider_2: markerPos = 3.051851851851852
+18.3588 	EXP 	slider_2: markerPos = 2.985185185185185
+18.3667 	EXP 	slider_2: markerPos = 2.803703703703704
+18.3789 	EXP 	slider_2: markerPos = 2.5814814814814815
+18.3868 	EXP 	slider_2: markerPos = 2.462962962962963
+18.3946 	EXP 	slider_2: markerPos = 2.425925925925926
+18.4067 	EXP 	slider_2: markerPos = 2.322222222222222
+18.4140 	EXP 	slider_2: markerPos = 2.074074074074074
+18.4215 	EXP 	slider_2: markerPos = 1.9592592592592593
+18.4293 	EXP 	slider_2: markerPos = 1.8407407407407408
+18.4413 	EXP 	slider_2: markerPos = 1.8037037037037038
+18.4487 	EXP 	slider_2: markerPos = 1.7148148148148148
+18.4567 	EXP 	slider_2: markerPos = 1.6111111111111112
+18.4693 	EXP 	slider_2: markerPos = 1.5814814814814815
+18.4766 	EXP 	slider_2: markerPos = 1.5148148148148148
+18.4843 	EXP 	slider_2: markerPos = 1.462962962962963
+18.4925 	EXP 	slider_2: markerPos = 1.4222222222222223
+18.5041 	EXP 	slider_2: markerPos = 1.4037037037037037
+18.5123 	EXP 	slider_2: markerPos = 1.3814814814814815
+18.5215 	EXP 	slider_2: markerPos = 1.3814814814814815
+18.5323 	EXP 	slider_2: markerPos = 1.3666666666666667
+18.5401 	EXP 	slider_2: markerPos = 1.348148148148148
+18.5490 	EXP 	slider_2: markerPos = 1.337037037037037
+18.5588 	EXP 	slider_2: markerPos = 1.3111111111111111
+18.5675 	EXP 	slider_2: markerPos = 1.262962962962963
+18.5756 	EXP 	slider_2: markerPos = 1.2407407407407407
+18.5836 	EXP 	slider_2: markerPos = 1.2148148148148148
+18.5943 	EXP 	slider_2: markerPos = 1.1777777777777778
+18.6031 	EXP 	slider_2: markerPos = 1.151851851851852
+18.6162 	EXP 	slider_2: markerPos = 1.1333333333333333
+18.6245 	EXP 	slider_2: markerPos = 1.0925925925925926
+18.6318 	EXP 	slider_2: markerPos = 1.0777777777777777
+18.6426 	EXP 	slider_2: markerPos = 1.0740740740740742
+18.6508 	EXP 	slider_2: markerPos = 1.0629629629629629
+18.6592 	EXP 	slider_2: markerPos = 1.0518518518518518
+18.6714 	EXP 	slider_2: markerPos = 1.048148148148148
+18.6797 	EXP 	slider_2: markerPos = 1.037037037037037
+18.6864 	EXP 	slider_2: markerPos = 1.0333333333333334
+18.6969 	EXP 	slider_2: markerPos = 1.0296296296296297
+18.7060 	EXP 	slider_2: markerPos = 1.025925925925926
+18.7137 	EXP 	slider_2: markerPos = 1.025925925925926
+18.7222 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7335 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7413 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7495 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7610 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7687 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7763 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7847 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.7962 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8038 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8122 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8239 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8315 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8401 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8517 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8603 	EXP 	slider_2: markerPos = 1.0222222222222221
+18.8724 	EXP 	slider_2: markerPos = 1.037037037037037
+18.8813 	EXP 	slider_2: markerPos = 1.0777777777777777
+18.8884 	EXP 	slider_2: markerPos = 1.114814814814815
+18.8994 	EXP 	slider_2: markerPos = 1.114814814814815
+18.9078 	EXP 	slider_2: markerPos = 1.1703703703703703
+18.9163 	EXP 	slider_2: markerPos = 1.1962962962962962
+18.9276 	EXP 	slider_2: markerPos = 1.211111111111111
+18.9355 	EXP 	slider_2: markerPos = 1.2185185185185186
+18.9437 	EXP 	slider_2: markerPos = 1.2259259259259259
+18.9557 	EXP 	slider_2: markerPos = 1.2296296296296296
+18.9638 	EXP 	slider_2: markerPos = 1.2333333333333334
+18.9711 	EXP 	slider_2: markerPos = 1.237037037037037
+18.9820 	EXP 	slider_2: markerPos = 1.2407407407407407
+18.9905 	EXP 	slider_2: markerPos = 1.2518518518518518
+18.9995 	EXP 	slider_2: markerPos = 1.262962962962963
+19.0075 	EXP 	slider_2: markerPos = 1.2740740740740741
+19.0175 	EXP 	slider_2: markerPos = 1.3037037037037038
+19.0275 	EXP 	slider_2: markerPos = 1.3407407407407408
+19.0343 	EXP 	slider_2: markerPos = 1.3666666666666667
+19.0446 	EXP 	slider_2: markerPos = 1.3666666666666667
+19.0532 	EXP 	slider_2: markerPos = 1.4370370370370371
+19.0611 	EXP 	slider_2: markerPos = 1.4666666666666666
+19.0690 	EXP 	slider_2: markerPos = 1.511111111111111
+19.0793 	EXP 	slider_2: markerPos = 1.5592592592592593
+19.0880 	EXP 	slider_2: markerPos = 1.5777777777777777
+19.0968 	EXP 	slider_2: markerPos = 1.6296296296296295
+19.1072 	EXP 	slider_2: markerPos = 1.6777777777777778
+19.1167 	EXP 	slider_2: markerPos = 1.7518518518518518
+19.1242 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.1348 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.1431 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.1508 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.1587 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.1706 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.1804 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.1921 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.2007 	DATA 	Mouse:  Left button up, pos=(627,569)
+19.2026 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.2132 	EXP 	slider_2: markerPos = 1.7666666666666666
+19.5898 	DATA 	Keypress: escape
+20.1553 	EXP 	window1: mouseVisible = True
+20.1554 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+20.1564 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_20h38.03.470.psydat
+20.1572 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_20h38.03.470.csv'

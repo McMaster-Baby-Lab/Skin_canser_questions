@@ -1,0 +1,372 @@
+5.7255 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+5.7325 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+7.0903 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002008E5BBFA0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000020092075490>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.0904 	EXP 	window1: mouseVisible = True
+7.0904 	EXP 	window1: mouseVisible = False
+7.0905 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.0905 	EXP 	window1: recordFrameIntervals = False
+7.1597 	EXP 	window1: recordFrameIntervals = True
+7.2356 	EXP 	Screen (0) actual frame rate measured at 145.58Hz
+7.2356 	EXP 	window1: recordFrameIntervals = False
+8.8434 	INFO 	keyboard.Keyboard is using iohub backend.
+8.9133 	EXP 	Created ques_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='ques_instr', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.9138 	EXP 	window1: mouseVisible = True
+8.9176 	EXP 	window1: mouseVisible = True
+8.9407 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9417 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9424 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9433 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9438 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9444 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9451 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9461 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9468 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9476 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9484 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9490 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9492 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.9552 	DEBUG 	Upload of Texture Font fontname complete
+8.9706 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9708 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.9759 	DEBUG 	Upload of Texture Font fontname complete
+8.9915 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9925 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9935 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9945 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9952 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9961 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9963 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.0011 	DEBUG 	Upload of Texture Font fontname complete
+9.0185 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0187 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.0229 	DEBUG 	Upload of Texture Font fontname complete
+9.0382 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0392 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.0393 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.0441 	DEBUG 	Upload of Texture Font fontname complete
+9.0557 	EXP 	Created slider_rad_therapy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_rad_therapy', opacity=None, ori=0.0, pos=array([0. , 0.1]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+9.0652 	EXP 	Created text_rad_therapy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_rad_therapy', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.0665 	EXP 	window1: mouseVisible = True
+9.1457 	EXP 	Created slider_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_surgery', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+9.1504 	EXP 	Created text_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_surgery', opacity=1.0, ori=0.0, pos=array([ 0. , -0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.1606 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.7, -0.4]), size=array([0.2, 0.1]), texRes=128.0, units='height', win=Window(...))
+9.1607 	EXP 	window1: mouseVisible = True
+9.1617 	EXP 	Created instrBlock = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instrBlock', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.1617 	EXP 	window1: mouseVisible = True
+9.1646 	EXP 	Created face_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=True, flipVert=False, image='sin', interpolate=False, mask=None, maskParams=None, name='face_image', opacity=1.0, ori=0.0, pos=array([  0., 280.]), size=array([960., 540.]), texRes=512, units='pix', win=Window(...))
+9.1658 	EXP 	window1: mouseVisible = True
+9.2979 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+9.3112 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3131 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3140 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3150 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3163 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3175 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3188 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3199 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3201 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.3210 	DEBUG 	Upload of Texture Font fontname complete
+9.4311 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+9.4440 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.4456 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.4467 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.4481 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.4493 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.4506 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.4517 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.4519 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.4524 	DEBUG 	Upload of Texture Font fontname complete
+9.4619 	EXP 	Created slider_treatment_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='HelveticaBold', granularity=0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=('0% Never', '100% Always'), lineColor=None, markerColor=None, name='slider_treatment_surgery', opacity=None, ori=0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style=['rating'], styleTweaks=['labels45', 'triangleMarker'], ticks=array([  0,  25,  50,  75, 100]), units='height', win=Window(...))
+9.4714 	EXP 	Created NextBu = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=False, mask=None, maskParams=None, name='NextBu', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.1]), texRes=512, units='height', win=Window(...))
+9.4714 	EXP 	window1: mouseVisible = True
+9.4727 	EXP 	window1: mouseVisible = True
+9.5774 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+9.6955 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+9.7162 	EXP 	Created slider_treatment_radiation = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-5, fillColor=None, flip=False, font='HelveticaBold', granularity=0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=('0% Never', '100% Always'), lineColor=None, markerColor=None, name='slider_treatment_radiation', opacity=None, ori=0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style=['rating'], styleTweaks=['triangleMarker'], ticks=array([  0,  25,  50,  75, 100]), units='height', win=Window(...))
+9.7293 	EXP 	Created text_treatment_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_treatment_surgery', opacity=1.0, ori=0.0, pos=array([0.  , 0.05]), rgb=UNKNOWN, text='How likely are you to recommend surgery? ', units='height', win=Window(...), wrapWidth=1)
+9.7315 	EXP 	Created text_treatment_radiation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_treatment_radiation', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='How likely are you to recommend radiation? ', units='height', win=Window(...), wrapWidth=1)
+9.7326 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.7350 	EXP 	Created face_image_q = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='face_image_q', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), size=array([0.88888889, 0.5       ]), texRes=128.0, units='height', win=Window(...))
+9.7362 	EXP 	window1: mouseVisible = True
+9.7519 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7527 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7535 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7547 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7553 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7560 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7567 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7582 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7605 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7607 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.7615 	DEBUG 	Upload of Texture Font fontname complete
+9.7760 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7770 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7776 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7779 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.7783 	DEBUG 	Upload of Texture Font fontname complete
+9.7926 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7934 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7941 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7948 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7951 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.7955 	DEBUG 	Upload of Texture Font fontname complete
+9.8098 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.8107 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.8116 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.8118 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.8123 	DEBUG 	Upload of Texture Font fontname complete
+9.8268 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.8271 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.8276 	DEBUG 	Upload of Texture Font fontname complete
+9.8405 	EXP 	Created slider_trustworthy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_trustworthy', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+9.8468 	EXP 	Created text_trustworthy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_trustworthy', opacity=1.0, ori=0.0, pos=array([0.  , 0.05]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.8485 	EXP 	window1: mouseVisible = True
+9.9287 	EXP 	Created slider_aggressive = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_aggressive', opacity=None, ori=0.0, pos=array([ 0.  , -0.25]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+9.9332 	EXP 	Created text_aggressive = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_aggressive', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.15]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.9333 	EXP 	window1: mouseVisible = True
+9.9398 	EXP 	Created Confirm = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=True, mask=None, maskParams=None, name='Confirm', opacity=1.0, ori=0.0, pos=array([ 0. , -0.9]), size=array([0.2, 0.1]), texRes=128.0, units='height', win=Window(...))
+9.9413 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.9716 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.9717 	EXP 	window1: mouseVisible = True
+9.9798 	EXP 	slider_rad_therapy: autoLog = True
+9.9798 	EXP 	slider_rad_therapy: markerPos = 3
+9.9798 	EXP 	slider_rad_therapy: styleTweaks = []
+9.9798 	EXP 	slider_rad_therapy: styleTweaks = []
+9.9798 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+9.9798 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+9.9798 	EXP 	slider_rad_therapy: contrast = 1.0
+9.9798 	EXP 	slider_rad_therapy: autoLog = True
+9.9798 	EXP 	slider_surgery: autoLog = True
+9.9798 	EXP 	slider_surgery: markerPos = 3
+9.9798 	EXP 	slider_surgery: styleTweaks = []
+9.9798 	EXP 	slider_surgery: styleTweaks = []
+9.9798 	EXP 	slider_surgery: styleTweaks = ['labels45']
+9.9798 	EXP 	slider_surgery: styleTweaks = ['labels45']
+9.9798 	EXP 	slider_surgery: contrast = 1.0
+9.9798 	EXP 	slider_surgery: autoLog = True
+9.9798 	EXP 	slider_treatment_surgery: autoLog = True
+9.9798 	EXP 	slider_treatment_surgery: markerPos = None
+9.9798 	EXP 	slider_treatment_surgery: styleTweaks = []
+9.9798 	EXP 	slider_treatment_surgery: styleTweaks = []
+9.9798 	EXP 	slider_treatment_surgery: styleTweaks = ['labels45', 'triangleMarker']
+9.9798 	EXP 	slider_treatment_surgery: styleTweaks = ['labels45', 'triangleMarker']
+9.9798 	EXP 	slider_treatment_surgery: contrast = 1.0
+9.9798 	EXP 	slider_treatment_surgery: autoLog = True
+9.9798 	EXP 	slider_treatment_radiation: autoLog = True
+9.9798 	EXP 	slider_treatment_radiation: markerPos = None
+9.9798 	EXP 	slider_treatment_radiation: styleTweaks = []
+9.9798 	EXP 	slider_treatment_radiation: styleTweaks = []
+9.9798 	EXP 	slider_treatment_radiation: styleTweaks = ['triangleMarker']
+9.9798 	EXP 	slider_treatment_radiation: styleTweaks = ['triangleMarker']
+9.9798 	EXP 	slider_treatment_radiation: contrast = 1.0
+9.9798 	EXP 	slider_treatment_radiation: autoLog = True
+9.9798 	EXP 	slider_trustworthy: autoLog = True
+9.9798 	EXP 	slider_trustworthy: markerPos = None
+9.9798 	EXP 	slider_trustworthy: styleTweaks = []
+9.9798 	EXP 	slider_trustworthy: styleTweaks = []
+9.9798 	EXP 	slider_trustworthy: styleTweaks = ['labels45']
+9.9798 	EXP 	slider_trustworthy: styleTweaks = ['labels45']
+9.9798 	EXP 	slider_trustworthy: contrast = 1.0
+9.9798 	EXP 	slider_trustworthy: autoLog = True
+9.9798 	EXP 	slider_aggressive: autoLog = True
+9.9798 	EXP 	slider_aggressive: markerPos = None
+9.9798 	EXP 	slider_aggressive: styleTweaks = []
+9.9798 	EXP 	slider_aggressive: styleTweaks = []
+9.9798 	EXP 	slider_aggressive: styleTweaks = []
+9.9798 	EXP 	slider_aggressive: styleTweaks = []
+9.9798 	EXP 	slider_aggressive: contrast = 1.0
+9.9798 	EXP 	slider_aggressive: autoLog = True
+9.9798 	EXP 	ques_instr: autoDraw = True
+11.5988 	DATA 	Mouse: Left button down, pos=(982,756)
+11.6487 	EXP 	ques_instr: autoDraw = False
+11.6487 	EXP 	slider_rad_therapy: markerPos = None
+11.6487 	EXP 	slider_rad_therapy: markerPos = 3
+11.6487 	EXP 	slider_surgery: markerPos = None
+11.6487 	EXP 	slider_surgery: markerPos = 3
+11.6487 	EXP 	slider_rad_therapy: autoDraw = True
+11.6487 	EXP 	text_rad_therapy: autoDraw = True
+11.6487 	EXP 	slider_surgery: autoDraw = True
+11.6487 	EXP 	text_surgery: autoDraw = True
+11.6487 	EXP 	image: autoDraw = True
+11.7139 	DATA 	Mouse:  Left button up, pos=(982,756)
+12.7489 	DATA 	Mouse: Left button down, pos=(1754,109)
+12.7697 	EXP 	slider_rad_therapy: autoDraw = False
+12.7697 	EXP 	text_rad_therapy: autoDraw = False
+12.7697 	EXP 	slider_surgery: autoDraw = False
+12.7697 	EXP 	text_surgery: autoDraw = False
+12.7697 	EXP 	image: autoDraw = False
+12.7697 	EXP 	instrBlock: height = 0.05
+12.7697 	EXP 	instrBlock: height = 0.05
+12.7697 	EXP 	instrBlock: height = 0.05
+12.7697 	EXP 	instrBlock: text = 'Each patient below has been diagnosed with a low-risk, non-sclerosing, early-stage basal cell skin cancer. The patients are otherwise in good health. For each face, please indicate how likely you would be to recommend surgery versus radiation in the management of each lesion. \nPlease click anywhere to start'
+12.7697 	EXP 	instrBlock: autoDraw = True
+12.8552 	DATA 	Mouse:  Left button up, pos=(1753,109)
+13.6466 	DATA 	Mouse: Left button down, pos=(911,525)
+13.6541 	DEBUG 	Read excel file with openpyxl: faceImages.xlsx
+13.6556 	EXP 	Imported faceImages.xlsx as conditions, 95 conditions, 1 params
+13.6582 	EXP 	Created sequence: random, trialTypes=95, nReps=95, seed=None
+13.6586 	EXP 	New trial (rep=0, index=0): {'faceImages': 'images\\LCHEEK_CFD_AF_237_223_N.png'}
+13.6739 	EXP 	instrBlock: autoDraw = False
+13.6739 	EXP 	face_image: image = 'images\\LCHEEK_CFD_AF_237_223_N.png'
+13.6739 	EXP 	slider_treatment_surgery: markerPos = None
+13.6739 	EXP 	slider_treatment_surgery: markerPos = None
+13.6739 	EXP 	slider_treatment_radiation: markerPos = None
+13.6739 	EXP 	slider_treatment_radiation: markerPos = None
+13.6739 	EXP 	face_image: autoDraw = True
+13.7511 	DATA 	Mouse:  Left button up, pos=(911,525)
+13.9555 	EXP 	slider_treatment_surgery: autoDraw = True
+13.9555 	EXP 	NextBu: autoDraw = True
+13.9555 	EXP 	slider_treatment_radiation: autoDraw = True
+13.9555 	EXP 	text_treatment_surgery: autoDraw = True
+13.9555 	EXP 	text_treatment_radiation: autoDraw = True
+14.5422 	DATA 	Mouse: Left button down, pos=(905,530)
+14.5509 	EXP 	slider_treatment_surgery: markerPos = 44.907407407407405
+14.5623 	EXP 	slider_treatment_surgery: markerPos = 44.907407407407405
+14.5709 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.5798 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.5886 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.5983 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.6071 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.6162 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.6254 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.6344 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.6457 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.6533 	DATA 	Mouse:  Left button up, pos=(904,530)
+14.6546 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+14.6615 	EXP 	slider_treatment_surgery: markerPos = 44.81481481481481
+15.5435 	DATA 	Mouse: Left button down, pos=(1128,227)
+15.5536 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.5629 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.5717 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.5792 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.5895 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.5992 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.6067 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.6169 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.6262 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.6359 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.6447 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+15.6495 	DATA 	Mouse:  Left button up, pos=(1128,227)
+15.6544 	EXP 	slider_treatment_radiation: markerPos = 65.55555555555556
+16.4143 	DATA 	Mouse: Left button down, pos=(994,116)
+16.4315 	EXP 	face_image: autoDraw = False
+16.4315 	EXP 	slider_treatment_surgery: autoDraw = False
+16.4315 	EXP 	NextBu: autoDraw = False
+16.4315 	EXP 	slider_treatment_radiation: autoDraw = False
+16.4315 	EXP 	text_treatment_surgery: autoDraw = False
+16.4315 	EXP 	text_treatment_radiation: autoDraw = False
+16.4315 	EXP 	text: text = ''
+16.4315 	EXP 	text: autoDraw = True
+16.5351 	DATA 	Mouse:  Left button up, pos=(994,116)
+17.3342 	EXP 	New trial (rep=0, index=1): {'faceImages': 'images\\LIP_CFD_AF_237_223_N.png'}
+17.3488 	EXP 	text: autoDraw = False
+17.3488 	EXP 	text: autoDraw = False
+17.3488 	EXP 	face_image: image = 'images\\LIP_CFD_AF_237_223_N.png'
+17.3488 	EXP 	slider_treatment_surgery: markerPos = None
+17.3488 	EXP 	slider_treatment_surgery: markerPos = None
+17.3488 	EXP 	slider_treatment_radiation: markerPos = None
+17.3488 	EXP 	slider_treatment_radiation: markerPos = None
+17.3488 	EXP 	face_image: autoDraw = True
+17.6413 	EXP 	slider_treatment_surgery: autoDraw = True
+17.6413 	EXP 	NextBu: autoDraw = True
+17.6413 	EXP 	slider_treatment_radiation: autoDraw = True
+17.6413 	EXP 	text_treatment_surgery: autoDraw = True
+17.6413 	EXP 	text_treatment_radiation: autoDraw = True
+18.2432 	DATA 	Mouse: Left button down, pos=(897,552)
+18.2524 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.2630 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.2722 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.2814 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.2920 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.3019 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.3131 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.3219 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.3291 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.3381 	DATA 	Mouse:  Left button up, pos=(897,552)
+18.3404 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.3491 	EXP 	slider_treatment_surgery: markerPos = 44.166666666666664
+18.8816 	DATA 	Mouse: Left button down, pos=(830,215)
+18.8920 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9013 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9109 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9204 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9293 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9386 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9483 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9572 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9670 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9747 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9863 	DATA 	Mouse:  Left button up, pos=(830,215)
+18.9882 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+18.9952 	EXP 	slider_treatment_radiation: markerPos = 37.96296296296296
+20.3200 	DATA 	Mouse: Left button down, pos=(965,97)
+20.3263 	EXP 	face_image: autoDraw = False
+20.3263 	EXP 	slider_treatment_surgery: autoDraw = False
+20.3263 	EXP 	NextBu: autoDraw = False
+20.3263 	EXP 	slider_treatment_radiation: autoDraw = False
+20.3263 	EXP 	text_treatment_surgery: autoDraw = False
+20.3263 	EXP 	text_treatment_radiation: autoDraw = False
+20.3263 	EXP 	text: text = ''
+20.3263 	EXP 	text: autoDraw = True
+20.4246 	DATA 	Mouse:  Left button up, pos=(965,97)
+20.8266 	EXP 	New trial (rep=0, index=2): {'faceImages': 'images\\LCHEEK_CFD_BF_214_308_N.png'}
+20.8426 	EXP 	text: autoDraw = False
+20.8426 	EXP 	text: autoDraw = False
+20.8426 	EXP 	face_image: image = 'images\\LCHEEK_CFD_BF_214_308_N.png'
+20.8426 	EXP 	slider_treatment_surgery: markerPos = None
+20.8426 	EXP 	slider_treatment_surgery: markerPos = None
+20.8426 	EXP 	slider_treatment_radiation: markerPos = None
+20.8426 	EXP 	slider_treatment_radiation: markerPos = None
+20.8426 	EXP 	face_image: autoDraw = True
+21.1330 	EXP 	slider_treatment_surgery: autoDraw = True
+21.1330 	EXP 	NextBu: autoDraw = True
+21.1330 	EXP 	slider_treatment_radiation: autoDraw = True
+21.1330 	EXP 	text_treatment_surgery: autoDraw = True
+21.1330 	EXP 	text_treatment_radiation: autoDraw = True
+22.1384 	DATA 	Mouse: Left button down, pos=(1078,549)
+22.1483 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.1595 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.1684 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.1787 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.1877 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.1972 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.2063 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.2158 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.2252 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.2365 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.2370 	DATA 	Mouse:  Left button up, pos=(1078,549)
+22.2453 	EXP 	slider_treatment_surgery: markerPos = 60.92592592592593
+22.8349 	DATA 	Mouse: Left button down, pos=(835,208)
+22.8427 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.8529 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.8623 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.8718 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.8804 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.8904 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.8977 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.9080 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.9176 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+22.9228 	DATA 	Mouse:  Left button up, pos=(835,208)
+22.9274 	EXP 	slider_treatment_radiation: markerPos = 38.425925925925924
+23.5754 	DATA 	Mouse: Left button down, pos=(943,107)
+23.5884 	EXP 	face_image: autoDraw = False
+23.5884 	EXP 	slider_treatment_surgery: autoDraw = False
+23.5884 	EXP 	NextBu: autoDraw = False
+23.5884 	EXP 	slider_treatment_radiation: autoDraw = False
+23.5884 	EXP 	text_treatment_surgery: autoDraw = False
+23.5884 	EXP 	text_treatment_radiation: autoDraw = False
+23.5884 	EXP 	text: text = ''
+23.5884 	EXP 	text: autoDraw = True
+23.6813 	DATA 	Mouse:  Left button up, pos=(943,107)
+24.1736 	EXP 	New trial (rep=0, index=3): {'faceImages': 'images\\RCHEEK_136_M_M_N_A.png\n'}
+24.1750 	DEPRECATION 	Couldn't find image images\RCHEEK_136_M_M_N_A.png
+; check path? (tried: C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\images\RCHEEK_136_M_M_N_A.png
+)
+24.1973 	EXP 	window1: mouseVisible = True
+24.1974 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+24.2080 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-07_21h09.15.262.psydat
+24.2091 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-07_21h09.15.262.csv'

@@ -1,0 +1,101 @@
+7.0632 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+7.0691 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+8.3678 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002B4D5618EE0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002B4DB053430>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.3679 	EXP 	window1: mouseVisible = True
+8.3680 	EXP 	window1: mouseVisible = False
+8.3680 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.3680 	EXP 	window1: recordFrameIntervals = False
+8.4365 	EXP 	window1: recordFrameIntervals = True
+8.5142 	EXP 	Screen (0) actual frame rate measured at 141.43Hz
+8.5142 	EXP 	window1: recordFrameIntervals = False
+10.1191 	INFO 	keyboard.Keyboard is using iohub backend.
+10.1912 	EXP 	Created ques_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='ques_instr', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.1915 	EXP 	window1: mouseVisible = True
+10.1950 	EXP 	window1: mouseVisible = True
+10.2173 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2182 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2190 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2199 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2205 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2210 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2218 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2228 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2236 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2244 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2252 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2258 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2260 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.2327 	DEBUG 	Upload of Texture Font fontname complete
+10.2484 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2487 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.2535 	DEBUG 	Upload of Texture Font fontname complete
+10.2701 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2711 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2721 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2730 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2737 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2746 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2748 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.2801 	DEBUG 	Upload of Texture Font fontname complete
+10.2954 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2957 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.3002 	DEBUG 	Upload of Texture Font fontname complete
+10.3152 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3162 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3164 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.3209 	DEBUG 	Upload of Texture Font fontname complete
+10.3326 	EXP 	Created slider_rad_therapy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_rad_therapy', opacity=None, ori=0.0, pos=array([0. , 0.1]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+10.3412 	EXP 	Created text_rad_therapy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_rad_therapy', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.3425 	EXP 	window1: mouseVisible = True
+10.4235 	EXP 	Created slider_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_surgery', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+10.4283 	EXP 	Created text_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_surgery', opacity=1.0, ori=0.0, pos=array([ 0. , -0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.4382 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.7, -0.4]), size=array([0.2, 0.1]), texRes=128.0, units='height', win=Window(...))
+10.4382 	EXP 	window1: mouseVisible = True
+10.4392 	EXP 	Created instrBlock = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instrBlock', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.4393 	EXP 	window1: mouseVisible = True
+10.4424 	EXP 	Created face_image_q = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='face_image_q', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), size=array([0.88888889, 0.5       ]), texRes=128.0, units='height', win=Window(...))
+10.4436 	EXP 	window1: mouseVisible = True
+10.4597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4606 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4614 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4622 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4628 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4634 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4641 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4648 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4656 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4664 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4671 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4678 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4686 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4688 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.4696 	DEBUG 	Upload of Texture Font fontname complete
+10.4844 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4852 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4860 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.4862 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.4868 	DEBUG 	Upload of Texture Font fontname complete
+10.5027 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5035 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5042 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5050 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5053 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.5058 	DEBUG 	Upload of Texture Font fontname complete
+10.5232 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5243 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5253 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5255 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.5261 	DEBUG 	Upload of Texture Font fontname complete
+10.5411 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5415 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.5431 	DEBUG 	Upload of Texture Font fontname complete
+10.5572 	EXP 	Created slider_trustworthy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_trustworthy', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+10.5692 	EXP 	Created text_trustworthy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_trustworthy', opacity=1.0, ori=0.0, pos=array([0.  , 0.05]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.5705 	EXP 	window1: mouseVisible = True
+10.6506 	EXP 	Created slider_aggressive = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_aggressive', opacity=None, ori=0.0, pos=array([ 0.  , -0.25]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+10.6543 	EXP 	Created text_aggressive = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_aggressive', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.15]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.6544 	EXP 	window1: mouseVisible = True
+10.6728 	EXP 	window1: mouseVisible = True
+10.6740 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+10.6749 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-07_22h26.49.889.psydat
+10.6757 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-07_22h26.49.889.csv'

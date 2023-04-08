@@ -1,0 +1,30 @@
+3.8965 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+3.9030 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+5.2226 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023E1C362D30>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000023E1E2D6220>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.2227 	EXP 	window1: mouseVisible = True
+5.2228 	EXP 	window1: mouseVisible = False
+5.2228 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.2228 	EXP 	window1: recordFrameIntervals = False
+5.2915 	EXP 	window1: recordFrameIntervals = True
+5.3679 	EXP 	Screen (0) actual frame rate measured at 143.85Hz
+5.3680 	EXP 	window1: recordFrameIntervals = False
+7.0788 	INFO 	keyboard.Keyboard is using iohub backend.
+7.0913 	EXP 	Created instrBlock = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instrBlock', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.0917 	EXP 	window1: mouseVisible = True
+7.1631 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.1675 	DEBUG 	Read excel file with openpyxl: Rating_BlockOrder.xlsx
+7.1676 	EXP 	Imported Rating_BlockOrder.xlsx as conditions, 1 conditions, 3 params
+7.1679 	EXP 	Created sequence: fullRandom, trialTypes=1, nReps=1, seed=None
+7.1681 	EXP 	New trial (rep=0, index=0): {'Task': 'Attractiveness', 'LeftLabel': 'Extremely  Attractive', 'RightLabel': 'Extremely Unattractive'}
+7.1987 	EXP 	instrBlock: height = 0.05
+7.1987 	EXP 	instrBlock: height = 0.05
+7.1987 	EXP 	instrBlock: height = 0.05
+7.1987 	EXP 	instrBlock: text = '欢迎参加实验！\n\n你会看到一些面孔图片。你需要对面孔的Attractiveness进行评价。\n\n你需要在标尺上点击相应的位置进行评价。\n\n点击鼠标开始。'
+7.1987 	EXP 	instrBlock: autoDraw = True
+9.6963 	DATA 	Mouse: Left button down, pos=(826,489)
+9.6974 	EXP 	Created sequence: sequential, trialTypes=1, nReps=95, seed=None
+9.6977 	EXP 	New trial (rep=0, index=0): None
+9.7174 	EXP 	window1: mouseVisible = True
+9.7181 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+9.7197 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_21h03.57.271.psydat
+9.7205 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_21h03.57.271.csv'

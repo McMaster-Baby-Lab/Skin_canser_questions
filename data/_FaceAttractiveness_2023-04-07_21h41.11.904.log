@@ -1,0 +1,1500 @@
+5.7341 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+5.7421 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+7.0672 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001913A13CFA0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001913DC133D0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.0673 	EXP 	window1: mouseVisible = True
+7.0674 	EXP 	window1: mouseVisible = False
+7.0674 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.0674 	EXP 	window1: recordFrameIntervals = False
+7.1362 	EXP 	window1: recordFrameIntervals = True
+7.2124 	EXP 	Screen (0) actual frame rate measured at 144.02Hz
+7.2125 	EXP 	window1: recordFrameIntervals = False
+9.0304 	INFO 	keyboard.Keyboard is using iohub backend.
+9.2058 	EXP 	Created ques_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='ques_instr', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.2063 	EXP 	window1: mouseVisible = True
+9.2099 	EXP 	window1: mouseVisible = True
+9.2342 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2354 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2362 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2373 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2379 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2385 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2394 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2404 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2412 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2421 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2430 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2437 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2439 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.2493 	DEBUG 	Upload of Texture Font fontname complete
+9.2674 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2679 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.2727 	DEBUG 	Upload of Texture Font fontname complete
+9.2889 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2899 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2909 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2918 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2925 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2937 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2939 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.2986 	DEBUG 	Upload of Texture Font fontname complete
+9.3141 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3143 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.3188 	DEBUG 	Upload of Texture Font fontname complete
+9.3341 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3351 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3353 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.3398 	DEBUG 	Upload of Texture Font fontname complete
+9.3515 	EXP 	Created slider_rad_therapy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_rad_therapy', opacity=None, ori=0.0, pos=array([0. , 0.1]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+9.3607 	EXP 	Created text_rad_therapy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_rad_therapy', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.3620 	EXP 	window1: mouseVisible = True
+9.4459 	EXP 	Created slider_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_surgery', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+9.4505 	EXP 	Created text_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='text_surgery', opacity=1.0, ori=0.0, pos=array([ 0. , -0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.4595 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.7, -0.4]), size=array([0.2, 0.1]), texRes=128.0, units='height', win=Window(...))
+9.4596 	EXP 	window1: mouseVisible = True
+9.4604 	EXP 	Created instrBlock = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instrBlock', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.4605 	EXP 	window1: mouseVisible = True
+9.4634 	EXP 	Created face_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=True, flipVert=False, image='sin', interpolate=False, mask=None, maskParams=None, name='face_image', opacity=1.0, ori=0.0, pos=array([  0., 280.]), size=array([960., 540.]), texRes=512, units='pix', win=Window(...))
+9.4646 	EXP 	window1: mouseVisible = True
+9.6008 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+9.6155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6174 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6184 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6194 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6210 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6223 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6236 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6250 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.6252 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.6260 	DEBUG 	Upload of Texture Font fontname complete
+9.7322 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+9.7467 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7483 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7495 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7510 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7523 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7538 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7551 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.7553 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.7558 	DEBUG 	Upload of Texture Font fontname complete
+9.7652 	EXP 	Created slider_treatment_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='HelveticaBold', granularity=0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=('0% Never', '100% Always'), lineColor=None, markerColor=None, name='slider_treatment_surgery', opacity=None, ori=0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style=['rating'], styleTweaks=['labels45', 'triangleMarker'], ticks=array([  0,  25,  50,  75, 100]), units='height', win=Window(...))
+9.7744 	EXP 	Created NextBu = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=False, mask=None, maskParams=None, name='NextBu', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.1]), texRes=512, units='height', win=Window(...))
+9.7745 	EXP 	window1: mouseVisible = True
+9.7757 	EXP 	window1: mouseVisible = True
+9.8819 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+10.0002 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+10.0221 	EXP 	Created slider_treatment_radiation = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-5, fillColor=None, flip=False, font='HelveticaBold', granularity=0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=('0% Never', '100% Always'), lineColor=None, markerColor=None, name='slider_treatment_radiation', opacity=None, ori=0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style=['rating'], styleTweaks=['triangleMarker'], ticks=array([  0,  25,  50,  75, 100]), units='height', win=Window(...))
+10.0324 	EXP 	Created text_treatment_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_treatment_surgery', opacity=1.0, ori=0.0, pos=array([0.  , 0.05]), rgb=UNKNOWN, text='How likely are you to recommend surgery? ', units='height', win=Window(...), wrapWidth=1)
+10.0346 	EXP 	Created text_treatment_radiation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_treatment_radiation', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='How likely are you to recommend radiation? ', units='height', win=Window(...), wrapWidth=1)
+10.0355 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.0383 	EXP 	Created face_image_q = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='face_image_q', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), size=array([0.88888889, 0.5       ]), texRes=128.0, units='height', win=Window(...))
+10.0395 	EXP 	window1: mouseVisible = True
+10.0560 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0577 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0584 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0596 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0604 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0612 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0620 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0629 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0636 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0645 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0654 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0656 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.0664 	DEBUG 	Upload of Texture Font fontname complete
+10.0819 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0829 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0836 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.0839 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.0844 	DEBUG 	Upload of Texture Font fontname complete
+10.1001 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1010 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1018 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1027 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1029 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.1035 	DEBUG 	Upload of Texture Font fontname complete
+10.1191 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1201 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1210 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1213 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.1219 	DEBUG 	Upload of Texture Font fontname complete
+10.1375 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1378 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.1390 	DEBUG 	Upload of Texture Font fontname complete
+10.1524 	EXP 	Created slider_trustworthy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_trustworthy', opacity=None, ori=0.0, pos=array([0., 0.]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+10.1580 	EXP 	Created text_trustworthy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_trustworthy', opacity=1.0, ori=0.0, pos=array([0.  , 0.05]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.1593 	EXP 	window1: mouseVisible = True
+10.2450 	EXP 	Created slider_aggressive = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-3, fillColor=None, flip=False, font='Open Sans', granularity=1.0, labelColor=None, labelHeight=0.02, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_aggressive', opacity=None, ori=0.0, pos=array([ 0.  , -0.25]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style='radio', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+10.2484 	EXP 	Created text_aggressive = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_aggressive', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.15]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.2485 	EXP 	window1: mouseVisible = True
+10.2551 	EXP 	Created Confirm = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=True, mask=None, maskParams=None, name='Confirm', opacity=1.0, ori=0.0, pos=array([ 0. , -0.9]), size=array([0.2, 0.1]), texRes=128.0, units='height', win=Window(...))
+10.2563 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.2832 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.2833 	EXP 	window1: mouseVisible = True
+10.2929 	EXP 	slider_rad_therapy: autoLog = True
+10.2929 	EXP 	slider_rad_therapy: markerPos = 3
+10.2929 	EXP 	slider_rad_therapy: styleTweaks = []
+10.2929 	EXP 	slider_rad_therapy: styleTweaks = []
+10.2929 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+10.2929 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+10.2929 	EXP 	slider_rad_therapy: contrast = 1.0
+10.2929 	EXP 	slider_rad_therapy: autoLog = True
+10.2929 	EXP 	slider_surgery: autoLog = True
+10.2929 	EXP 	slider_surgery: markerPos = 3
+10.2929 	EXP 	slider_surgery: styleTweaks = []
+10.2929 	EXP 	slider_surgery: styleTweaks = []
+10.2929 	EXP 	slider_surgery: styleTweaks = ['labels45']
+10.2929 	EXP 	slider_surgery: styleTweaks = ['labels45']
+10.2929 	EXP 	slider_surgery: contrast = 1.0
+10.2929 	EXP 	slider_surgery: autoLog = True
+10.2929 	EXP 	slider_treatment_surgery: autoLog = True
+10.2929 	EXP 	slider_treatment_surgery: markerPos = None
+10.2929 	EXP 	slider_treatment_surgery: styleTweaks = []
+10.2929 	EXP 	slider_treatment_surgery: styleTweaks = []
+10.2929 	EXP 	slider_treatment_surgery: styleTweaks = ['labels45', 'triangleMarker']
+10.2929 	EXP 	slider_treatment_surgery: styleTweaks = ['labels45', 'triangleMarker']
+10.2929 	EXP 	slider_treatment_surgery: contrast = 1.0
+10.2929 	EXP 	slider_treatment_surgery: autoLog = True
+10.2929 	EXP 	slider_treatment_radiation: autoLog = True
+10.2929 	EXP 	slider_treatment_radiation: markerPos = None
+10.2929 	EXP 	slider_treatment_radiation: styleTweaks = []
+10.2929 	EXP 	slider_treatment_radiation: styleTweaks = []
+10.2929 	EXP 	slider_treatment_radiation: styleTweaks = ['triangleMarker']
+10.2929 	EXP 	slider_treatment_radiation: styleTweaks = ['triangleMarker']
+10.2929 	EXP 	slider_treatment_radiation: contrast = 1.0
+10.2929 	EXP 	slider_treatment_radiation: autoLog = True
+10.2929 	EXP 	slider_trustworthy: autoLog = True
+10.2929 	EXP 	slider_trustworthy: markerPos = None
+10.2929 	EXP 	slider_trustworthy: styleTweaks = []
+10.2929 	EXP 	slider_trustworthy: styleTweaks = []
+10.2929 	EXP 	slider_trustworthy: styleTweaks = ['labels45']
+10.2929 	EXP 	slider_trustworthy: styleTweaks = ['labels45']
+10.2929 	EXP 	slider_trustworthy: contrast = 1.0
+10.2929 	EXP 	slider_trustworthy: autoLog = True
+10.2929 	EXP 	slider_aggressive: autoLog = True
+10.2929 	EXP 	slider_aggressive: markerPos = None
+10.2929 	EXP 	slider_aggressive: styleTweaks = []
+10.2929 	EXP 	slider_aggressive: styleTweaks = []
+10.2929 	EXP 	slider_aggressive: styleTweaks = []
+10.2929 	EXP 	slider_aggressive: styleTweaks = []
+10.2929 	EXP 	slider_aggressive: contrast = 1.0
+10.2929 	EXP 	slider_aggressive: autoLog = True
+10.2929 	EXP 	ques_instr: autoDraw = True
+12.2642 	DATA 	Mouse: Left button down, pos=(857,617)
+12.3234 	EXP 	ques_instr: autoDraw = False
+12.3234 	EXP 	slider_rad_therapy: markerPos = None
+12.3234 	EXP 	slider_rad_therapy: markerPos = 3
+12.3234 	EXP 	slider_surgery: markerPos = None
+12.3234 	EXP 	slider_surgery: markerPos = 3
+12.3234 	EXP 	slider_rad_therapy: autoDraw = True
+12.3234 	EXP 	text_rad_therapy: autoDraw = True
+12.3234 	EXP 	slider_surgery: autoDraw = True
+12.3234 	EXP 	text_surgery: autoDraw = True
+12.3234 	EXP 	image: autoDraw = True
+12.3234 	EXP 	slider_rad_therapy: markerPos = 2.6185185185185187
+12.3362 	EXP 	slider_rad_therapy: markerPos = 2.6185185185185187
+12.3487 	EXP 	slider_rad_therapy: markerPos = 2.6185185185185187
+12.3555 	DATA 	Mouse:  Left button up, pos=(857,617)
+12.3614 	EXP 	slider_rad_therapy: markerPos = 2.6185185185185187
+12.3746 	EXP 	slider_rad_therapy: markerPos = 2.6185185185185187
+17.2619 	DATA 	Mouse: Left button down, pos=(1744,121)
+17.2804 	EXP 	slider_rad_therapy: autoDraw = False
+17.2804 	EXP 	text_rad_therapy: autoDraw = False
+17.2804 	EXP 	slider_surgery: autoDraw = False
+17.2804 	EXP 	text_surgery: autoDraw = False
+17.2804 	EXP 	image: autoDraw = False
+17.2804 	EXP 	instrBlock: height = 0.05
+17.2804 	EXP 	instrBlock: height = 0.05
+17.2804 	EXP 	instrBlock: height = 0.05
+17.2804 	EXP 	instrBlock: text = 'Each patient below has been diagnosed with a low-risk, non-sclerosing, early-stage basal cell skin cancer. The patients are otherwise in good health. For each face, please indicate how likely you would be to recommend surgery versus radiation in the management of each lesion. \nPlease click anywhere to start'
+17.2804 	EXP 	instrBlock: autoDraw = True
+17.3596 	DATA 	Mouse:  Left button up, pos=(1744,121)
+17.9005 	DATA 	Mouse: Left button down, pos=(1641,236)
+17.9979 	DATA 	Mouse:  Left button up, pos=(1641,236)
+19.8935 	DATA 	Mouse: Left button down, pos=(1561,402)
+20.0042 	DATA 	Mouse:  Left button up, pos=(1560,402)
+21.1154 	DATA 	Mouse: Left button down, pos=(945,340)
+21.1234 	DEBUG 	Read excel file with openpyxl: faceImages.xlsx
+21.1245 	EXP 	Imported faceImages.xlsx as conditions, 95 conditions, 1 params
+21.1255 	EXP 	Created sequence: sequential, trialTypes=95, nReps=95, seed=None
+21.1259 	EXP 	New trial (rep=0, index=0): {'faceImages': 'images\\FOREHEAD_006_M_F_N_A.png'}
+21.1340 	EXP 	instrBlock: autoDraw = False
+21.1340 	EXP 	face_image: image = 'images\\FOREHEAD_006_M_F_N_A.png'
+21.1340 	EXP 	slider_treatment_surgery: markerPos = None
+21.1340 	EXP 	slider_treatment_surgery: markerPos = None
+21.1340 	EXP 	slider_treatment_radiation: markerPos = None
+21.1340 	EXP 	slider_treatment_radiation: markerPos = None
+21.1340 	EXP 	face_image: autoDraw = True
+21.2351 	DATA 	Mouse:  Left button up, pos=(943,339)
+21.4237 	EXP 	slider_treatment_surgery: autoDraw = True
+21.4237 	EXP 	NextBu: autoDraw = True
+21.4237 	EXP 	slider_treatment_radiation: autoDraw = True
+21.4237 	EXP 	text_treatment_surgery: autoDraw = True
+21.4237 	EXP 	text_treatment_radiation: autoDraw = True
+23.0222 	DATA 	Mouse: Left button down, pos=(966,535)
+23.0345 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.0461 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.0545 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.0666 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.0750 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.0835 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.0947 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.0952 	DATA 	Mouse:  Left button up, pos=(966,535)
+23.1036 	EXP 	slider_treatment_surgery: markerPos = 50.55555555555556
+23.7821 	DATA 	Mouse: Left button down, pos=(979,221)
+23.7926 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+23.8013 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+23.8106 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+23.8198 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+23.8291 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+23.8393 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+23.8454 	DATA 	Mouse:  Left button up, pos=(979,221)
+23.8465 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+23.8570 	EXP 	slider_treatment_radiation: markerPos = 51.75925925925926
+24.7270 	DATA 	Mouse: Left button down, pos=(988,112)
+24.7464 	EXP 	face_image: autoDraw = False
+24.7464 	EXP 	slider_treatment_surgery: autoDraw = False
+24.7464 	EXP 	NextBu: autoDraw = False
+24.7464 	EXP 	slider_treatment_radiation: autoDraw = False
+24.7464 	EXP 	text_treatment_surgery: autoDraw = False
+24.7464 	EXP 	text_treatment_radiation: autoDraw = False
+24.7464 	EXP 	text: text = ''
+24.7464 	EXP 	text: autoDraw = True
+24.8450 	DATA 	Mouse:  Left button up, pos=(988,113)
+25.6509 	EXP 	New trial (rep=0, index=1): {'faceImages': 'images\\FOREHEAD_035_M_F_N_A.png'}
+25.6597 	EXP 	text: autoDraw = False
+25.6597 	EXP 	text: autoDraw = False
+25.6597 	EXP 	face_image: image = 'images\\FOREHEAD_035_M_F_N_A.png'
+25.6597 	EXP 	slider_treatment_surgery: markerPos = None
+25.6597 	EXP 	slider_treatment_surgery: markerPos = None
+25.6597 	EXP 	slider_treatment_radiation: markerPos = None
+25.6597 	EXP 	slider_treatment_radiation: markerPos = None
+25.6597 	EXP 	face_image: autoDraw = True
+25.9577 	EXP 	slider_treatment_surgery: autoDraw = True
+25.9577 	EXP 	NextBu: autoDraw = True
+25.9577 	EXP 	slider_treatment_radiation: autoDraw = True
+25.9577 	EXP 	text_treatment_surgery: autoDraw = True
+25.9577 	EXP 	text_treatment_radiation: autoDraw = True
+26.6768 	DATA 	Mouse: Left button down, pos=(984,542)
+26.6906 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+26.7006 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+26.7120 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+26.7212 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+26.7278 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+26.7388 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+26.7481 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+26.7487 	DATA 	Mouse:  Left button up, pos=(984,542)
+26.7569 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+27.3610 	DATA 	Mouse: Left button down, pos=(990,224)
+27.3679 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.3783 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.3875 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4005 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4098 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4189 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4282 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4372 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4444 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4550 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+27.4595 	DATA 	Mouse:  Left button up, pos=(990,223)
+27.4648 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+28.4635 	DATA 	Mouse: Left button down, pos=(965,111)
+28.4758 	EXP 	face_image: autoDraw = False
+28.4758 	EXP 	slider_treatment_surgery: autoDraw = False
+28.4758 	EXP 	NextBu: autoDraw = False
+28.4758 	EXP 	slider_treatment_radiation: autoDraw = False
+28.4758 	EXP 	text_treatment_surgery: autoDraw = False
+28.4758 	EXP 	text_treatment_radiation: autoDraw = False
+28.4758 	EXP 	text: text = ''
+28.4758 	EXP 	text: autoDraw = True
+28.5605 	DATA 	Mouse:  Left button up, pos=(965,111)
+29.3592 	EXP 	New trial (rep=0, index=2): {'faceImages': 'images\\FOREHEAD_087_M_M_N_A.png'}
+29.3676 	EXP 	text: autoDraw = False
+29.3676 	EXP 	text: autoDraw = False
+29.3676 	EXP 	face_image: image = 'images\\FOREHEAD_087_M_M_N_A.png'
+29.3676 	EXP 	slider_treatment_surgery: markerPos = None
+29.3676 	EXP 	slider_treatment_surgery: markerPos = None
+29.3676 	EXP 	slider_treatment_radiation: markerPos = None
+29.3676 	EXP 	slider_treatment_radiation: markerPos = None
+29.3676 	EXP 	face_image: autoDraw = True
+29.6648 	EXP 	slider_treatment_surgery: autoDraw = True
+29.6648 	EXP 	NextBu: autoDraw = True
+29.6648 	EXP 	slider_treatment_radiation: autoDraw = True
+29.6648 	EXP 	text_treatment_surgery: autoDraw = True
+29.6648 	EXP 	text_treatment_radiation: autoDraw = True
+30.3525 	DATA 	Mouse: Left button down, pos=(985,541)
+30.3648 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.3737 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.3805 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.3913 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4002 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4085 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4204 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4289 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4376 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4487 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4571 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4639 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4746 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+30.4755 	DATA 	Mouse:  Left button up, pos=(985,541)
+30.4839 	EXP 	slider_treatment_surgery: markerPos = 52.31481481481482
+31.1939 	DATA 	Mouse: Left button down, pos=(982,222)
+31.2038 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2130 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2219 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2292 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2405 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2495 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2587 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2698 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2776 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2890 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.2984 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+31.3018 	DATA 	Mouse:  Left button up, pos=(982,222)
+31.3078 	EXP 	slider_treatment_radiation: markerPos = 52.03703703703704
+32.2056 	DATA 	Mouse: Left button down, pos=(991,106)
+32.2149 	EXP 	face_image: autoDraw = False
+32.2149 	EXP 	slider_treatment_surgery: autoDraw = False
+32.2149 	EXP 	NextBu: autoDraw = False
+32.2149 	EXP 	slider_treatment_radiation: autoDraw = False
+32.2149 	EXP 	text_treatment_surgery: autoDraw = False
+32.2149 	EXP 	text_treatment_radiation: autoDraw = False
+32.2149 	EXP 	text: text = ''
+32.2149 	EXP 	text: autoDraw = True
+32.3105 	DATA 	Mouse:  Left button up, pos=(991,106)
+32.8250 	EXP 	New trial (rep=0, index=3): {'faceImages': 'images\\FOREHEAD_136_M_M_N_A.png'}
+32.8331 	EXP 	text: autoDraw = False
+32.8331 	EXP 	text: autoDraw = False
+32.8331 	EXP 	face_image: image = 'images\\FOREHEAD_136_M_M_N_A.png'
+32.8331 	EXP 	slider_treatment_surgery: markerPos = None
+32.8331 	EXP 	slider_treatment_surgery: markerPos = None
+32.8331 	EXP 	slider_treatment_radiation: markerPos = None
+32.8331 	EXP 	slider_treatment_radiation: markerPos = None
+32.8331 	EXP 	face_image: autoDraw = True
+33.1316 	EXP 	slider_treatment_surgery: autoDraw = True
+33.1316 	EXP 	NextBu: autoDraw = True
+33.1316 	EXP 	slider_treatment_radiation: autoDraw = True
+33.1316 	EXP 	text_treatment_surgery: autoDraw = True
+33.1316 	EXP 	text_treatment_radiation: autoDraw = True
+33.9345 	DATA 	Mouse: Left button down, pos=(998,543)
+33.9493 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+33.9593 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+33.9679 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+33.9788 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+33.9898 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+33.9986 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+34.0059 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+34.0167 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+34.0231 	DATA 	Mouse:  Left button up, pos=(998,543)
+34.0271 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+34.0364 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+34.6502 	DATA 	Mouse: Left button down, pos=(990,226)
+34.6590 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.6697 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.6814 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.6901 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.6998 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.7119 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.7208 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.7279 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+34.7334 	DATA 	Mouse:  Left button up, pos=(990,226)
+34.7389 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+35.7972 	DATA 	Mouse: Left button down, pos=(992,107)
+35.8091 	EXP 	face_image: autoDraw = False
+35.8091 	EXP 	slider_treatment_surgery: autoDraw = False
+35.8091 	EXP 	NextBu: autoDraw = False
+35.8091 	EXP 	slider_treatment_radiation: autoDraw = False
+35.8091 	EXP 	text_treatment_surgery: autoDraw = False
+35.8091 	EXP 	text_treatment_radiation: autoDraw = False
+35.8091 	EXP 	text: text = ''
+35.8091 	EXP 	text: autoDraw = True
+35.9007 	DATA 	Mouse:  Left button up, pos=(992,107)
+36.4281 	EXP 	New trial (rep=0, index=4): {'faceImages': 'images\\FOREHEAD_CFD_AF_231_357_N.png'}
+36.4378 	EXP 	text: autoDraw = False
+36.4378 	EXP 	text: autoDraw = False
+36.4378 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_AF_231_357_N.png'
+36.4378 	EXP 	slider_treatment_surgery: markerPos = None
+36.4378 	EXP 	slider_treatment_surgery: markerPos = None
+36.4378 	EXP 	slider_treatment_radiation: markerPos = None
+36.4378 	EXP 	slider_treatment_radiation: markerPos = None
+36.4378 	EXP 	face_image: autoDraw = True
+36.7374 	EXP 	slider_treatment_surgery: autoDraw = True
+36.7374 	EXP 	NextBu: autoDraw = True
+36.7374 	EXP 	slider_treatment_radiation: autoDraw = True
+36.7374 	EXP 	text_treatment_surgery: autoDraw = True
+36.7374 	EXP 	text_treatment_radiation: autoDraw = True
+37.2955 	DATA 	Mouse: Left button down, pos=(969,551)
+37.3039 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3163 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3250 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3320 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3425 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3516 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3611 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3703 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3795 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3882 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3955 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+37.3966 	DATA 	Mouse:  Left button up, pos=(969,551)
+37.4073 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+38.0060 	DATA 	Mouse: Left button down, pos=(1004,216)
+38.0162 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0256 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0348 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0440 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0533 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0628 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0720 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0815 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0890 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.0948 	DATA 	Mouse:  Left button up, pos=(1004,216)
+38.1002 	EXP 	slider_treatment_radiation: markerPos = 54.074074074074076
+38.8505 	DATA 	Mouse: Left button down, pos=(984,100)
+38.8651 	EXP 	face_image: autoDraw = False
+38.8651 	EXP 	slider_treatment_surgery: autoDraw = False
+38.8651 	EXP 	NextBu: autoDraw = False
+38.8651 	EXP 	slider_treatment_radiation: autoDraw = False
+38.8651 	EXP 	text_treatment_surgery: autoDraw = False
+38.8651 	EXP 	text_treatment_radiation: autoDraw = False
+38.8651 	EXP 	text: text = ''
+38.8651 	EXP 	text: autoDraw = True
+38.9497 	DATA 	Mouse:  Left button up, pos=(984,100)
+39.6994 	EXP 	New trial (rep=0, index=5): {'faceImages': 'images\\FOREHEAD_CFD_AF_237_223_N.png'}
+39.7088 	EXP 	text: autoDraw = False
+39.7088 	EXP 	text: autoDraw = False
+39.7088 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_AF_237_223_N.png'
+39.7088 	EXP 	slider_treatment_surgery: markerPos = None
+39.7088 	EXP 	slider_treatment_surgery: markerPos = None
+39.7088 	EXP 	slider_treatment_radiation: markerPos = None
+39.7088 	EXP 	slider_treatment_radiation: markerPos = None
+39.7088 	EXP 	face_image: autoDraw = True
+40.0068 	EXP 	slider_treatment_surgery: autoDraw = True
+40.0068 	EXP 	NextBu: autoDraw = True
+40.0068 	EXP 	slider_treatment_radiation: autoDraw = True
+40.0068 	EXP 	text_treatment_surgery: autoDraw = True
+40.0068 	EXP 	text_treatment_radiation: autoDraw = True
+40.5684 	DATA 	Mouse: Left button down, pos=(998,542)
+40.5749 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.5856 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.5944 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6032 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6148 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6233 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6303 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6419 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6520 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6632 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6718 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+40.6723 	DATA 	Mouse:  Left button up, pos=(998,542)
+40.6838 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+41.2890 	DATA 	Mouse: Left button down, pos=(996,218)
+41.2974 	EXP 	slider_treatment_radiation: markerPos = 53.333333333333336
+41.3080 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3176 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3269 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3357 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3455 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3575 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3663 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3735 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+41.3792 	DATA 	Mouse:  Left button up, pos=(997,218)
+41.3846 	EXP 	slider_treatment_radiation: markerPos = 53.425925925925924
+42.2955 	DATA 	Mouse: Left button down, pos=(983,93)
+42.3087 	EXP 	face_image: autoDraw = False
+42.3087 	EXP 	slider_treatment_surgery: autoDraw = False
+42.3087 	EXP 	NextBu: autoDraw = False
+42.3087 	EXP 	slider_treatment_radiation: autoDraw = False
+42.3087 	EXP 	text_treatment_surgery: autoDraw = False
+42.3087 	EXP 	text_treatment_radiation: autoDraw = False
+42.3087 	EXP 	text: text = ''
+42.3087 	EXP 	text: autoDraw = True
+42.3936 	DATA 	Mouse:  Left button up, pos=(983,93)
+43.1366 	EXP 	New trial (rep=0, index=6): {'faceImages': 'images\\FOREHEAD_CFD_AF_245_143_N.png'}
+43.1451 	EXP 	text: autoDraw = False
+43.1451 	EXP 	text: autoDraw = False
+43.1451 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_AF_245_143_N.png'
+43.1451 	EXP 	slider_treatment_surgery: markerPos = None
+43.1451 	EXP 	slider_treatment_surgery: markerPos = None
+43.1451 	EXP 	slider_treatment_radiation: markerPos = None
+43.1451 	EXP 	slider_treatment_radiation: markerPos = None
+43.1451 	EXP 	face_image: autoDraw = True
+43.4435 	EXP 	slider_treatment_surgery: autoDraw = True
+43.4435 	EXP 	NextBu: autoDraw = True
+43.4435 	EXP 	slider_treatment_radiation: autoDraw = True
+43.4435 	EXP 	text_treatment_surgery: autoDraw = True
+43.4435 	EXP 	text_treatment_radiation: autoDraw = True
+44.0549 	DATA 	Mouse: Left button down, pos=(969,537)
+44.0614 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.0719 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.0818 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.0935 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1019 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1110 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1220 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1313 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1382 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1486 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1574 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1638 	DATA 	Mouse:  Left button up, pos=(969,537)
+44.1673 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.1763 	EXP 	slider_treatment_surgery: markerPos = 50.83333333333333
+44.8137 	DATA 	Mouse: Left button down, pos=(981,226)
+44.8185 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8259 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8364 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8452 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8544 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8650 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8737 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8854 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.8939 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.9030 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.9118 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+44.9164 	DATA 	Mouse:  Left button up, pos=(981,226)
+44.9216 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+45.7329 	DATA 	Mouse: Left button down, pos=(986,115)
+45.7424 	EXP 	face_image: autoDraw = False
+45.7424 	EXP 	slider_treatment_surgery: autoDraw = False
+45.7424 	EXP 	NextBu: autoDraw = False
+45.7424 	EXP 	slider_treatment_radiation: autoDraw = False
+45.7424 	EXP 	text_treatment_surgery: autoDraw = False
+45.7424 	EXP 	text_treatment_radiation: autoDraw = False
+45.7424 	EXP 	text: text = ''
+45.7424 	EXP 	text: autoDraw = True
+45.8447 	DATA 	Mouse:  Left button up, pos=(986,115)
+46.4416 	EXP 	New trial (rep=0, index=7): {'faceImages': 'images\\FOREHEAD_CFD_AM_233_236_N.png'}
+46.4501 	EXP 	text: autoDraw = False
+46.4501 	EXP 	text: autoDraw = False
+46.4501 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_AM_233_236_N.png'
+46.4501 	EXP 	slider_treatment_surgery: markerPos = None
+46.4501 	EXP 	slider_treatment_surgery: markerPos = None
+46.4501 	EXP 	slider_treatment_radiation: markerPos = None
+46.4501 	EXP 	slider_treatment_radiation: markerPos = None
+46.4501 	EXP 	face_image: autoDraw = True
+46.7488 	EXP 	slider_treatment_surgery: autoDraw = True
+46.7488 	EXP 	NextBu: autoDraw = True
+46.7488 	EXP 	slider_treatment_radiation: autoDraw = True
+46.7488 	EXP 	text_treatment_surgery: autoDraw = True
+46.7488 	EXP 	text_treatment_radiation: autoDraw = True
+47.3085 	DATA 	Mouse: Left button down, pos=(998,547)
+47.3228 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3313 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3398 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3509 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3591 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3683 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3777 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3878 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3949 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+47.3958 	DATA 	Mouse:  Left button up, pos=(998,547)
+47.4055 	EXP 	slider_treatment_surgery: markerPos = 53.51851851851852
+48.0632 	DATA 	Mouse: Left button down, pos=(998,238)
+48.1914 	DATA 	Mouse:  Left button up, pos=(999,238)
+48.5091 	DATA 	Mouse: Left button down, pos=(1003,222)
+48.5151 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5250 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5347 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5439 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5535 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5624 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5716 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5816 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5887 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.5981 	DATA 	Mouse:  Left button up, pos=(1003,222)
+48.6001 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+48.6097 	EXP 	slider_treatment_radiation: markerPos = 53.98148148148149
+49.5617 	DATA 	Mouse: Left button down, pos=(988,125)
+49.5738 	EXP 	face_image: autoDraw = False
+49.5738 	EXP 	slider_treatment_surgery: autoDraw = False
+49.5738 	EXP 	NextBu: autoDraw = False
+49.5738 	EXP 	slider_treatment_radiation: autoDraw = False
+49.5738 	EXP 	text_treatment_surgery: autoDraw = False
+49.5738 	EXP 	text_treatment_radiation: autoDraw = False
+49.5738 	EXP 	text: text = ''
+49.5738 	EXP 	text: autoDraw = True
+49.6430 	DATA 	Mouse:  Left button up, pos=(988,125)
+50.3723 	EXP 	New trial (rep=0, index=8): {'faceImages': 'images\\FOREHEAD_CFD_BF_214_308_N.png'}
+50.3826 	EXP 	text: autoDraw = False
+50.3826 	EXP 	text: autoDraw = False
+50.3826 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_BF_214_308_N.png'
+50.3826 	EXP 	slider_treatment_surgery: markerPos = None
+50.3826 	EXP 	slider_treatment_surgery: markerPos = None
+50.3826 	EXP 	slider_treatment_radiation: markerPos = None
+50.3826 	EXP 	slider_treatment_radiation: markerPos = None
+50.3826 	EXP 	face_image: autoDraw = True
+50.6791 	EXP 	slider_treatment_surgery: autoDraw = True
+50.6791 	EXP 	NextBu: autoDraw = True
+50.6791 	EXP 	slider_treatment_radiation: autoDraw = True
+50.6791 	EXP 	text_treatment_surgery: autoDraw = True
+50.6791 	EXP 	text_treatment_radiation: autoDraw = True
+51.3357 	DATA 	Mouse: Left button down, pos=(987,542)
+51.3455 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.3575 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.3657 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.3752 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.3855 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.3939 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.4059 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.4140 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.4227 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.4342 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.4392 	DATA 	Mouse:  Left button up, pos=(987,542)
+51.4428 	EXP 	slider_treatment_surgery: markerPos = 52.5
+51.4499 	EXP 	slider_treatment_surgery: markerPos = 52.5
+52.2461 	DATA 	Mouse: Left button down, pos=(1017,226)
+52.2503 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.2594 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.2685 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.2778 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.2867 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.2968 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.3041 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.3150 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.3250 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.3321 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.3420 	DATA 	Mouse:  Left button up, pos=(1017,226)
+52.3441 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+52.3531 	EXP 	slider_treatment_radiation: markerPos = 55.27777777777778
+53.5318 	DATA 	Mouse: Left button down, pos=(992,126)
+53.5447 	EXP 	face_image: autoDraw = False
+53.5447 	EXP 	slider_treatment_surgery: autoDraw = False
+53.5447 	EXP 	NextBu: autoDraw = False
+53.5447 	EXP 	slider_treatment_radiation: autoDraw = False
+53.5447 	EXP 	text_treatment_surgery: autoDraw = False
+53.5447 	EXP 	text_treatment_radiation: autoDraw = False
+53.5447 	EXP 	text: text = ''
+53.5447 	EXP 	text: autoDraw = True
+53.6370 	DATA 	Mouse:  Left button up, pos=(992,126)
+54.1711 	EXP 	New trial (rep=0, index=9): {'faceImages': 'images\\FOREHEAD_CFD_BF_224_002_N.png'}
+54.1798 	EXP 	text: autoDraw = False
+54.1798 	EXP 	text: autoDraw = False
+54.1798 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_BF_224_002_N.png'
+54.1798 	EXP 	slider_treatment_surgery: markerPos = None
+54.1798 	EXP 	slider_treatment_surgery: markerPos = None
+54.1798 	EXP 	slider_treatment_radiation: markerPos = None
+54.1798 	EXP 	slider_treatment_radiation: markerPos = None
+54.1798 	EXP 	face_image: autoDraw = True
+54.4780 	EXP 	slider_treatment_surgery: autoDraw = True
+54.4780 	EXP 	NextBu: autoDraw = True
+54.4780 	EXP 	slider_treatment_radiation: autoDraw = True
+54.4780 	EXP 	text_treatment_surgery: autoDraw = True
+54.4780 	EXP 	text_treatment_radiation: autoDraw = True
+56.0673 	DATA 	Mouse: Left button down, pos=(994,550)
+56.0758 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.0859 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.0951 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1053 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1133 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1225 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1313 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1403 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1506 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1594 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1663 	DATA 	Mouse:  Left button up, pos=(994,550)
+56.1695 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.1783 	EXP 	slider_treatment_surgery: markerPos = 53.148148148148145
+56.8246 	DATA 	Mouse: Left button down, pos=(988,230)
+56.8347 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.8442 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.8533 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.8629 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.8720 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.8809 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.8883 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.8986 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+56.9039 	DATA 	Mouse:  Left button up, pos=(988,230)
+56.9082 	EXP 	slider_treatment_radiation: markerPos = 52.59259259259259
+57.6170 	DATA 	Mouse: Left button down, pos=(986,119)
+57.6279 	EXP 	face_image: autoDraw = False
+57.6279 	EXP 	slider_treatment_surgery: autoDraw = False
+57.6279 	EXP 	NextBu: autoDraw = False
+57.6279 	EXP 	slider_treatment_radiation: autoDraw = False
+57.6279 	EXP 	text_treatment_surgery: autoDraw = False
+57.6279 	EXP 	text_treatment_radiation: autoDraw = False
+57.6279 	EXP 	text: text = ''
+57.6279 	EXP 	text: autoDraw = True
+57.7057 	DATA 	Mouse:  Left button up, pos=(986,119)
+58.1711 	EXP 	New trial (rep=0, index=10): {'faceImages': 'images\\FOREHEAD_CFD_BM_213_134_N.png'}
+58.1794 	EXP 	text: autoDraw = False
+58.1794 	EXP 	text: autoDraw = False
+58.1794 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_BM_213_134_N.png'
+58.1794 	EXP 	slider_treatment_surgery: markerPos = None
+58.1794 	EXP 	slider_treatment_surgery: markerPos = None
+58.1794 	EXP 	slider_treatment_radiation: markerPos = None
+58.1794 	EXP 	slider_treatment_radiation: markerPos = None
+58.1794 	EXP 	face_image: autoDraw = True
+58.4779 	EXP 	slider_treatment_surgery: autoDraw = True
+58.4779 	EXP 	NextBu: autoDraw = True
+58.4779 	EXP 	slider_treatment_radiation: autoDraw = True
+58.4779 	EXP 	text_treatment_surgery: autoDraw = True
+58.4779 	EXP 	text_treatment_radiation: autoDraw = True
+59.0424 	DATA 	Mouse: Left button down, pos=(981,552)
+59.0504 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.0598 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.0687 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.0798 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.0888 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.0989 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.1083 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.1174 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.1262 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.1357 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.1446 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.1457 	DATA 	Mouse:  Left button up, pos=(981,552)
+59.1518 	EXP 	slider_treatment_surgery: markerPos = 51.94444444444445
+59.7547 	DATA 	Mouse: Left button down, pos=(975,220)
+59.7634 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.7724 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.7821 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.7912 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.8005 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.8097 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.8189 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.8304 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.8398 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+59.8435 	DATA 	Mouse:  Left button up, pos=(975,220)
+59.8493 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+60.5187 	DATA 	Mouse: Left button down, pos=(972,107)
+60.5241 	EXP 	face_image: autoDraw = False
+60.5241 	EXP 	slider_treatment_surgery: autoDraw = False
+60.5241 	EXP 	NextBu: autoDraw = False
+60.5241 	EXP 	slider_treatment_radiation: autoDraw = False
+60.5241 	EXP 	text_treatment_surgery: autoDraw = False
+60.5241 	EXP 	text_treatment_radiation: autoDraw = False
+60.5241 	EXP 	text: text = ''
+60.5241 	EXP 	text: autoDraw = True
+60.6084 	DATA 	Mouse:  Left button up, pos=(972,107)
+61.4623 	EXP 	New trial (rep=0, index=11): {'faceImages': 'images\\FOREHEAD_CFD_BM_234_172_N.png'}
+61.4710 	EXP 	text: autoDraw = False
+61.4710 	EXP 	text: autoDraw = False
+61.4710 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_BM_234_172_N.png'
+61.4710 	EXP 	slider_treatment_surgery: markerPos = None
+61.4710 	EXP 	slider_treatment_surgery: markerPos = None
+61.4710 	EXP 	slider_treatment_radiation: markerPos = None
+61.4710 	EXP 	slider_treatment_radiation: markerPos = None
+61.4710 	EXP 	face_image: autoDraw = True
+61.7695 	EXP 	slider_treatment_surgery: autoDraw = True
+61.7695 	EXP 	NextBu: autoDraw = True
+61.7695 	EXP 	slider_treatment_radiation: autoDraw = True
+61.7695 	EXP 	text_treatment_surgery: autoDraw = True
+61.7695 	EXP 	text_treatment_radiation: autoDraw = True
+62.3166 	DATA 	Mouse: Left button down, pos=(999,538)
+62.3252 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.3369 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.3459 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.3576 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.3662 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.3738 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.3842 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.3936 	DATA 	Mouse:  Left button up, pos=(999,537)
+62.3953 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+62.4066 	EXP 	slider_treatment_surgery: markerPos = 53.61111111111111
+63.1080 	DATA 	Mouse: Left button down, pos=(980,215)
+63.1167 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1273 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1364 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1451 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1541 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1636 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1724 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1842 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+63.1847 	DATA 	Mouse:  Left button up, pos=(980,215)
+63.1930 	EXP 	slider_treatment_radiation: markerPos = 51.85185185185185
+64.0282 	DATA 	Mouse: Left button down, pos=(975,112)
+64.0444 	EXP 	face_image: autoDraw = False
+64.0444 	EXP 	slider_treatment_surgery: autoDraw = False
+64.0444 	EXP 	NextBu: autoDraw = False
+64.0444 	EXP 	slider_treatment_radiation: autoDraw = False
+64.0444 	EXP 	text_treatment_surgery: autoDraw = False
+64.0444 	EXP 	text_treatment_radiation: autoDraw = False
+64.0444 	EXP 	text: text = ''
+64.0444 	EXP 	text: autoDraw = True
+64.1288 	DATA 	Mouse:  Left button up, pos=(975,112)
+65.0320 	EXP 	New trial (rep=0, index=12): {'faceImages': 'images\\FOREHEAD_CFD_LF_224_176_N.png'}
+65.0408 	EXP 	text: autoDraw = False
+65.0408 	EXP 	text: autoDraw = False
+65.0408 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_LF_224_176_N.png'
+65.0408 	EXP 	slider_treatment_surgery: markerPos = None
+65.0408 	EXP 	slider_treatment_surgery: markerPos = None
+65.0408 	EXP 	slider_treatment_radiation: markerPos = None
+65.0408 	EXP 	slider_treatment_radiation: markerPos = None
+65.0408 	EXP 	face_image: autoDraw = True
+65.3392 	EXP 	slider_treatment_surgery: autoDraw = True
+65.3392 	EXP 	NextBu: autoDraw = True
+65.3392 	EXP 	slider_treatment_radiation: autoDraw = True
+65.3392 	EXP 	text_treatment_surgery: autoDraw = True
+65.3392 	EXP 	text_treatment_radiation: autoDraw = True
+66.0361 	DATA 	Mouse: Left button down, pos=(984,541)
+66.0476 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.0594 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.0690 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.0799 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.0887 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.1006 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.1089 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.1151 	DATA 	Mouse:  Left button up, pos=(984,541)
+66.1188 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.1284 	EXP 	slider_treatment_surgery: markerPos = 52.22222222222223
+66.6630 	DATA 	Mouse: Left button down, pos=(984,236)
+66.7673 	DATA 	Mouse:  Left button up, pos=(984,236)
+67.0568 	DATA 	Mouse: Left button down, pos=(987,217)
+67.0616 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.0708 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.0802 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.0897 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.0992 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.1092 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.1168 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.1277 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.1365 	DATA 	Mouse:  Left button up, pos=(987,217)
+67.1378 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.1492 	EXP 	slider_treatment_radiation: markerPos = 52.5
+67.8466 	DATA 	Mouse: Left button down, pos=(977,122)
+67.8569 	EXP 	face_image: autoDraw = False
+67.8569 	EXP 	slider_treatment_surgery: autoDraw = False
+67.8569 	EXP 	NextBu: autoDraw = False
+67.8569 	EXP 	slider_treatment_radiation: autoDraw = False
+67.8569 	EXP 	text_treatment_surgery: autoDraw = False
+67.8569 	EXP 	text_treatment_radiation: autoDraw = False
+67.8569 	EXP 	text: text = ''
+67.8569 	EXP 	text: autoDraw = True
+67.9432 	DATA 	Mouse:  Left button up, pos=(977,122)
+68.7741 	EXP 	New trial (rep=0, index=13): {'faceImages': 'images\\FOREHEAD_CFD_LM_201_057_N.png'}
+68.7840 	EXP 	text: autoDraw = False
+68.7840 	EXP 	text: autoDraw = False
+68.7840 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_LM_201_057_N.png'
+68.7840 	EXP 	slider_treatment_surgery: markerPos = None
+68.7840 	EXP 	slider_treatment_surgery: markerPos = None
+68.7840 	EXP 	slider_treatment_radiation: markerPos = None
+68.7840 	EXP 	slider_treatment_radiation: markerPos = None
+68.7840 	EXP 	face_image: autoDraw = True
+69.0808 	EXP 	slider_treatment_surgery: autoDraw = True
+69.0808 	EXP 	NextBu: autoDraw = True
+69.0808 	EXP 	slider_treatment_radiation: autoDraw = True
+69.0808 	EXP 	text_treatment_surgery: autoDraw = True
+69.0808 	EXP 	text_treatment_radiation: autoDraw = True
+69.6248 	DATA 	Mouse: Left button down, pos=(989,546)
+69.6323 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.6408 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.6509 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.6625 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.6712 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.6836 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.6920 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.7043 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.7118 	DATA 	Mouse:  Left button up, pos=(989,546)
+69.7138 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+69.7212 	EXP 	slider_treatment_surgery: markerPos = 52.68518518518519
+70.4288 	DATA 	Mouse: Left button down, pos=(1006,227)
+70.4373 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.4459 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.4552 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.4641 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.4736 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.4844 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.4920 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.5033 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.5119 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.5188 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.5295 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.5393 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+70.5398 	DATA 	Mouse:  Left button up, pos=(1006,227)
+70.5466 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+71.2820 	DATA 	Mouse: Left button down, pos=(998,96)
+71.2945 	EXP 	face_image: autoDraw = False
+71.2945 	EXP 	slider_treatment_surgery: autoDraw = False
+71.2945 	EXP 	NextBu: autoDraw = False
+71.2945 	EXP 	slider_treatment_radiation: autoDraw = False
+71.2945 	EXP 	text_treatment_surgery: autoDraw = False
+71.2945 	EXP 	text_treatment_radiation: autoDraw = False
+71.2945 	EXP 	text: text = ''
+71.2945 	EXP 	text: autoDraw = True
+71.3718 	DATA 	Mouse:  Left button up, pos=(998,96)
+71.9268 	EXP 	New trial (rep=0, index=14): {'faceImages': 'images\\FOREHEAD_CFD_LM_203_026_N.png'}
+71.9358 	EXP 	text: autoDraw = False
+71.9358 	EXP 	text: autoDraw = False
+71.9358 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_LM_203_026_N.png'
+71.9358 	EXP 	slider_treatment_surgery: markerPos = None
+71.9358 	EXP 	slider_treatment_surgery: markerPos = None
+71.9358 	EXP 	slider_treatment_radiation: markerPos = None
+71.9358 	EXP 	slider_treatment_radiation: markerPos = None
+71.9358 	EXP 	face_image: autoDraw = True
+72.2280 	EXP 	slider_treatment_surgery: autoDraw = True
+72.2280 	EXP 	NextBu: autoDraw = True
+72.2280 	EXP 	slider_treatment_radiation: autoDraw = True
+72.2280 	EXP 	text_treatment_surgery: autoDraw = True
+72.2280 	EXP 	text_treatment_radiation: autoDraw = True
+72.7327 	DATA 	Mouse: Left button down, pos=(996,548)
+72.7411 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.7529 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.7614 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.7735 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.7821 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.7908 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.8001 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.8095 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.8179 	DATA 	Mouse:  Left button up, pos=(996,548)
+72.8196 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+72.8292 	EXP 	slider_treatment_surgery: markerPos = 53.333333333333336
+73.3785 	DATA 	Mouse: Left button down, pos=(1009,214)
+73.3829 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.3920 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4014 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4113 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4212 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4286 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4395 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4492 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4563 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4672 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4769 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+73.4808 	DATA 	Mouse:  Left button up, pos=(1009,214)
+73.4876 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+74.3828 	DATA 	Mouse: Left button down, pos=(980,109)
+74.3942 	EXP 	face_image: autoDraw = False
+74.3942 	EXP 	slider_treatment_surgery: autoDraw = False
+74.3942 	EXP 	NextBu: autoDraw = False
+74.3942 	EXP 	slider_treatment_radiation: autoDraw = False
+74.3942 	EXP 	text_treatment_surgery: autoDraw = False
+74.3942 	EXP 	text_treatment_radiation: autoDraw = False
+74.3942 	EXP 	text: text = ''
+74.3942 	EXP 	text: autoDraw = True
+74.4830 	DATA 	Mouse:  Left button up, pos=(980,109)
+75.0037 	EXP 	New trial (rep=0, index=15): {'faceImages': 'images\\FOREHEAD_CFD_WF_002_004_N.png'}
+75.0129 	EXP 	text: autoDraw = False
+75.0129 	EXP 	text: autoDraw = False
+75.0129 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_WF_002_004_N.png'
+75.0129 	EXP 	slider_treatment_surgery: markerPos = None
+75.0129 	EXP 	slider_treatment_surgery: markerPos = None
+75.0129 	EXP 	slider_treatment_radiation: markerPos = None
+75.0129 	EXP 	slider_treatment_radiation: markerPos = None
+75.0129 	EXP 	face_image: autoDraw = True
+75.3106 	EXP 	slider_treatment_surgery: autoDraw = True
+75.3106 	EXP 	NextBu: autoDraw = True
+75.3106 	EXP 	slider_treatment_radiation: autoDraw = True
+75.3106 	EXP 	text_treatment_surgery: autoDraw = True
+75.3106 	EXP 	text_treatment_radiation: autoDraw = True
+76.0870 	DATA 	Mouse: Left button down, pos=(970,539)
+76.0953 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1028 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1132 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1221 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1311 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1406 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1499 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1561 	DATA 	Mouse:  Left button up, pos=(970,539)
+76.1594 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.1697 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+76.9243 	DATA 	Mouse: Left button down, pos=(985,228)
+76.9289 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9363 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9468 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9567 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9640 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9748 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9837 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9910 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+76.9966 	DATA 	Mouse:  Left button up, pos=(985,228)
+77.0024 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+77.8843 	DATA 	Mouse: Left button down, pos=(979,118)
+77.8986 	EXP 	face_image: autoDraw = False
+77.8986 	EXP 	slider_treatment_surgery: autoDraw = False
+77.8986 	EXP 	NextBu: autoDraw = False
+77.8986 	EXP 	slider_treatment_radiation: autoDraw = False
+77.8986 	EXP 	text_treatment_surgery: autoDraw = False
+77.8986 	EXP 	text_treatment_radiation: autoDraw = False
+77.8986 	EXP 	text: text = ''
+77.8986 	EXP 	text: autoDraw = True
+77.9834 	DATA 	Mouse:  Left button up, pos=(979,118)
+78.8093 	EXP 	New trial (rep=0, index=16): {'faceImages': 'images\\FOREHEAD_CFD_WF_200_099_N.png'}
+78.8185 	EXP 	text: autoDraw = False
+78.8185 	EXP 	text: autoDraw = False
+78.8185 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_WF_200_099_N.png'
+78.8185 	EXP 	slider_treatment_surgery: markerPos = None
+78.8185 	EXP 	slider_treatment_surgery: markerPos = None
+78.8185 	EXP 	slider_treatment_radiation: markerPos = None
+78.8185 	EXP 	slider_treatment_radiation: markerPos = None
+78.8185 	EXP 	face_image: autoDraw = True
+79.1158 	EXP 	slider_treatment_surgery: autoDraw = True
+79.1158 	EXP 	NextBu: autoDraw = True
+79.1158 	EXP 	slider_treatment_radiation: autoDraw = True
+79.1158 	EXP 	text_treatment_surgery: autoDraw = True
+79.1158 	EXP 	text_treatment_radiation: autoDraw = True
+79.7679 	DATA 	Mouse: Left button down, pos=(983,550)
+79.7811 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.7898 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8018 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8110 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8207 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8299 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8392 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8502 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8595 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8638 	DATA 	Mouse:  Left button up, pos=(983,550)
+79.8697 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+79.8781 	EXP 	slider_treatment_surgery: markerPos = 52.129629629629626
+80.5608 	DATA 	Mouse: Left button down, pos=(1022,226)
+80.5737 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.5825 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.5916 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6014 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6085 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6198 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6293 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6366 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6477 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6571 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6634 	DATA 	Mouse:  Left button up, pos=(1022,226)
+80.6652 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+80.6763 	EXP 	slider_treatment_radiation: markerPos = 55.74074074074073
+81.4464 	DATA 	Mouse: Left button down, pos=(985,112)
+81.4606 	EXP 	face_image: autoDraw = False
+81.4606 	EXP 	slider_treatment_surgery: autoDraw = False
+81.4606 	EXP 	NextBu: autoDraw = False
+81.4606 	EXP 	slider_treatment_radiation: autoDraw = False
+81.4606 	EXP 	text_treatment_surgery: autoDraw = False
+81.4606 	EXP 	text_treatment_radiation: autoDraw = False
+81.4606 	EXP 	text: text = ''
+81.4606 	EXP 	text: autoDraw = True
+81.5318 	DATA 	Mouse:  Left button up, pos=(986,112)
+81.9617 	EXP 	New trial (rep=0, index=17): {'faceImages': 'images\\FOREHEAD_CFD_WF_250_167_N.png'}
+81.9706 	EXP 	text: autoDraw = False
+81.9706 	EXP 	text: autoDraw = False
+81.9706 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_WF_250_167_N.png'
+81.9706 	EXP 	slider_treatment_surgery: markerPos = None
+81.9706 	EXP 	slider_treatment_surgery: markerPos = None
+81.9706 	EXP 	slider_treatment_radiation: markerPos = None
+81.9706 	EXP 	slider_treatment_radiation: markerPos = None
+81.9706 	EXP 	face_image: autoDraw = True
+82.2684 	EXP 	slider_treatment_surgery: autoDraw = True
+82.2684 	EXP 	NextBu: autoDraw = True
+82.2684 	EXP 	slider_treatment_radiation: autoDraw = True
+82.2684 	EXP 	text_treatment_surgery: autoDraw = True
+82.2684 	EXP 	text_treatment_radiation: autoDraw = True
+82.8100 	DATA 	Mouse: Left button down, pos=(980,548)
+82.8204 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8303 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8393 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8504 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8591 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8706 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8788 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8879 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.8988 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.9049 	DATA 	Mouse:  Left button up, pos=(980,549)
+82.9084 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+82.9193 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+83.6569 	DATA 	Mouse: Left button down, pos=(1006,230)
+83.6659 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.6751 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.6846 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.6938 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.7026 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.7125 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.7207 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.7312 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.7409 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.7513 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+83.7519 	DATA 	Mouse:  Left button up, pos=(1006,230)
+83.7607 	EXP 	slider_treatment_radiation: markerPos = 54.25925925925926
+84.5869 	DATA 	Mouse: Left button down, pos=(981,96)
+84.5930 	EXP 	face_image: autoDraw = False
+84.5930 	EXP 	slider_treatment_surgery: autoDraw = False
+84.5930 	EXP 	NextBu: autoDraw = False
+84.5930 	EXP 	slider_treatment_radiation: autoDraw = False
+84.5930 	EXP 	text_treatment_surgery: autoDraw = False
+84.5930 	EXP 	text_treatment_radiation: autoDraw = False
+84.5930 	EXP 	text: text = ''
+84.5930 	EXP 	text: autoDraw = True
+84.6768 	DATA 	Mouse:  Left button up, pos=(981,96)
+85.5728 	EXP 	New trial (rep=0, index=18): {'faceImages': 'images\\FOREHEAD_CFD_WM_212_097_N.png'}
+85.5838 	EXP 	text: autoDraw = False
+85.5838 	EXP 	text: autoDraw = False
+85.5838 	EXP 	face_image: image = 'images\\FOREHEAD_CFD_WM_212_097_N.png'
+85.5838 	EXP 	slider_treatment_surgery: markerPos = None
+85.5838 	EXP 	slider_treatment_surgery: markerPos = None
+85.5838 	EXP 	slider_treatment_radiation: markerPos = None
+85.5838 	EXP 	slider_treatment_radiation: markerPos = None
+85.5838 	EXP 	face_image: autoDraw = True
+85.8794 	EXP 	slider_treatment_surgery: autoDraw = True
+85.8794 	EXP 	NextBu: autoDraw = True
+85.8794 	EXP 	slider_treatment_radiation: autoDraw = True
+85.8794 	EXP 	text_treatment_surgery: autoDraw = True
+85.8794 	EXP 	text_treatment_radiation: autoDraw = True
+86.3802 	DATA 	Mouse: Left button down, pos=(970,542)
+86.3884 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.3986 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4070 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4193 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4285 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4357 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4459 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4548 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4635 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4675 	DATA 	Mouse:  Left button up, pos=(970,542)
+86.4734 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+86.4822 	EXP 	slider_treatment_surgery: markerPos = 50.92592592592593
+87.1822 	DATA 	Mouse: Left button down, pos=(977,218)
+87.1866 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.1956 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2051 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2149 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2236 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2340 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2411 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2517 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2612 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2697 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+87.2716 	DATA 	Mouse:  Left button up, pos=(976,218)
+87.2806 	EXP 	slider_treatment_radiation: markerPos = 51.57407407407407
+88.0170 	DATA 	Mouse: Left button down, pos=(973,89)
+88.0244 	EXP 	face_image: autoDraw = False
+88.0244 	EXP 	slider_treatment_surgery: autoDraw = False
+88.0244 	EXP 	NextBu: autoDraw = False
+88.0244 	EXP 	slider_treatment_radiation: autoDraw = False
+88.0244 	EXP 	text_treatment_surgery: autoDraw = False
+88.0244 	EXP 	text_treatment_radiation: autoDraw = False
+88.0244 	EXP 	text: text = ''
+88.0244 	EXP 	text: autoDraw = True
+88.0947 	DATA 	Mouse:  Left button up, pos=(973,89)
+88.9965 	EXP 	New trial (rep=0, index=19): {'faceImages': 'images\\LCHEEK_006_M_F_N_A.png'}
+89.0053 	EXP 	text: autoDraw = False
+89.0053 	EXP 	text: autoDraw = False
+89.0053 	EXP 	face_image: image = 'images\\LCHEEK_006_M_F_N_A.png'
+89.0053 	EXP 	slider_treatment_surgery: markerPos = None
+89.0053 	EXP 	slider_treatment_surgery: markerPos = None
+89.0053 	EXP 	slider_treatment_radiation: markerPos = None
+89.0053 	EXP 	slider_treatment_radiation: markerPos = None
+89.0053 	EXP 	face_image: autoDraw = True
+89.3038 	EXP 	slider_treatment_surgery: autoDraw = True
+89.3038 	EXP 	NextBu: autoDraw = True
+89.3038 	EXP 	slider_treatment_radiation: autoDraw = True
+89.3038 	EXP 	text_treatment_surgery: autoDraw = True
+89.3038 	EXP 	text_treatment_radiation: autoDraw = True
+89.8204 	DATA 	Mouse: Left button down, pos=(968,543)
+89.8319 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.8429 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.8516 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.8625 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.8720 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.8812 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.8902 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.8981 	DATA 	Mouse:  Left button up, pos=(968,543)
+89.8996 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+89.9089 	EXP 	slider_treatment_surgery: markerPos = 50.74074074074074
+90.6660 	DATA 	Mouse: Left button down, pos=(981,227)
+90.6741 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+90.6827 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+90.6922 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+90.6996 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+90.7101 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+90.7192 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+90.7276 	DATA 	Mouse:  Left button up, pos=(981,227)
+90.7297 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+90.7381 	EXP 	slider_treatment_radiation: markerPos = 51.94444444444445
+91.4582 	DATA 	Mouse: Left button down, pos=(984,112)
+91.4743 	EXP 	face_image: autoDraw = False
+91.4743 	EXP 	slider_treatment_surgery: autoDraw = False
+91.4743 	EXP 	NextBu: autoDraw = False
+91.4743 	EXP 	slider_treatment_radiation: autoDraw = False
+91.4743 	EXP 	text_treatment_surgery: autoDraw = False
+91.4743 	EXP 	text_treatment_radiation: autoDraw = False
+91.4743 	EXP 	text: text = ''
+91.4743 	EXP 	text: autoDraw = True
+91.5383 	DATA 	Mouse:  Left button up, pos=(984,112)
+92.3371 	EXP 	New trial (rep=0, index=20): {'faceImages': 'images\\LCHEEK_035_M_F_N_A.png'}
+92.3453 	EXP 	text: autoDraw = False
+92.3453 	EXP 	text: autoDraw = False
+92.3453 	EXP 	face_image: image = 'images\\LCHEEK_035_M_F_N_A.png'
+92.3453 	EXP 	slider_treatment_surgery: markerPos = None
+92.3453 	EXP 	slider_treatment_surgery: markerPos = None
+92.3453 	EXP 	slider_treatment_radiation: markerPos = None
+92.3453 	EXP 	slider_treatment_radiation: markerPos = None
+92.3453 	EXP 	face_image: autoDraw = True
+92.6431 	EXP 	slider_treatment_surgery: autoDraw = True
+92.6431 	EXP 	NextBu: autoDraw = True
+92.6431 	EXP 	slider_treatment_radiation: autoDraw = True
+92.6431 	EXP 	text_treatment_surgery: autoDraw = True
+92.6431 	EXP 	text_treatment_radiation: autoDraw = True
+93.4266 	DATA 	Mouse: Left button down, pos=(992,527)
+93.4349 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.4420 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.4528 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.4616 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.4706 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.4778 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.4884 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.4970 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.5062 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.5152 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.5233 	DATA 	Mouse:  Left button up, pos=(992,527)
+93.5248 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+93.5336 	EXP 	slider_treatment_surgery: markerPos = 52.96296296296297
+94.2384 	DATA 	Mouse: Left button down, pos=(978,219)
+94.2489 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.2581 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.2682 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.2755 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.2861 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.2955 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.3051 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.3139 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.3226 	DATA 	Mouse:  Left button up, pos=(978,219)
+94.3248 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+94.3318 	EXP 	slider_treatment_radiation: markerPos = 51.66666666666667
+95.1022 	DATA 	Mouse: Left button down, pos=(943,125)
+95.1131 	EXP 	face_image: autoDraw = False
+95.1131 	EXP 	slider_treatment_surgery: autoDraw = False
+95.1131 	EXP 	NextBu: autoDraw = False
+95.1131 	EXP 	slider_treatment_radiation: autoDraw = False
+95.1131 	EXP 	text_treatment_surgery: autoDraw = False
+95.1131 	EXP 	text_treatment_radiation: autoDraw = False
+95.1131 	EXP 	text: text = ''
+95.1131 	EXP 	text: autoDraw = True
+95.1701 	DATA 	Mouse:  Left button up, pos=(943,125)
+96.0304 	EXP 	New trial (rep=0, index=21): {'faceImages': 'images\\LCHEEK_087_M_M_N_A.png'}
+96.0396 	EXP 	text: autoDraw = False
+96.0396 	EXP 	text: autoDraw = False
+96.0396 	EXP 	face_image: image = 'images\\LCHEEK_087_M_M_N_A.png'
+96.0396 	EXP 	slider_treatment_surgery: markerPos = None
+96.0396 	EXP 	slider_treatment_surgery: markerPos = None
+96.0396 	EXP 	slider_treatment_radiation: markerPos = None
+96.0396 	EXP 	slider_treatment_radiation: markerPos = None
+96.0396 	EXP 	face_image: autoDraw = True
+96.3380 	EXP 	slider_treatment_surgery: autoDraw = True
+96.3380 	EXP 	NextBu: autoDraw = True
+96.3380 	EXP 	slider_treatment_radiation: autoDraw = True
+96.3380 	EXP 	text_treatment_surgery: autoDraw = True
+96.3380 	EXP 	text_treatment_radiation: autoDraw = True
+97.1358 	DATA 	Mouse: Left button down, pos=(980,536)
+97.1472 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.1564 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.1651 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.1745 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.1837 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.1924 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.2043 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.2130 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.2201 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.2262 	DATA 	Mouse:  Left button up, pos=(980,536)
+97.2310 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+97.2396 	EXP 	slider_treatment_surgery: markerPos = 51.85185185185185
+98.1001 	DATA 	Mouse: Left button down, pos=(990,220)
+98.1082 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+98.1188 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+98.1282 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+98.1380 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+98.1488 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+98.1493 	DATA 	Mouse:  Left button up, pos=(990,220)
+98.1580 	EXP 	slider_treatment_radiation: markerPos = 52.77777777777778
+100.9147 	DATA 	Mouse: Left button down, pos=(954,134)
+100.9326 	EXP 	face_image: autoDraw = False
+100.9326 	EXP 	slider_treatment_surgery: autoDraw = False
+100.9326 	EXP 	NextBu: autoDraw = False
+100.9326 	EXP 	slider_treatment_radiation: autoDraw = False
+100.9326 	EXP 	text_treatment_surgery: autoDraw = False
+100.9326 	EXP 	text_treatment_radiation: autoDraw = False
+100.9326 	EXP 	text: text = ''
+100.9326 	EXP 	text: autoDraw = True
+100.9890 	DATA 	Mouse:  Left button up, pos=(954,134)
+101.8024 	EXP 	New trial (rep=0, index=22): {'faceImages': 'images\\LCHEEK_136_M_M_N_A.png'}
+101.8107 	EXP 	text: autoDraw = False
+101.8107 	EXP 	text: autoDraw = False
+101.8107 	EXP 	face_image: image = 'images\\LCHEEK_136_M_M_N_A.png'
+101.8107 	EXP 	slider_treatment_surgery: markerPos = None
+101.8107 	EXP 	slider_treatment_surgery: markerPos = None
+101.8107 	EXP 	slider_treatment_radiation: markerPos = None
+101.8107 	EXP 	slider_treatment_radiation: markerPos = None
+101.8107 	EXP 	face_image: autoDraw = True
+102.1091 	EXP 	slider_treatment_surgery: autoDraw = True
+102.1091 	EXP 	NextBu: autoDraw = True
+102.1091 	EXP 	slider_treatment_radiation: autoDraw = True
+102.1091 	EXP 	text_treatment_surgery: autoDraw = True
+102.1091 	EXP 	text_treatment_radiation: autoDraw = True
+103.1749 	DATA 	Mouse: Left button down, pos=(997,544)
+103.1891 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.1980 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2070 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2159 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2248 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2338 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2454 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2545 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2661 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.2665 	DATA 	Mouse:  Left button up, pos=(997,544)
+103.2746 	EXP 	slider_treatment_surgery: markerPos = 53.425925925925924
+103.9275 	DATA 	Mouse: Left button down, pos=(1009,220)
+103.9406 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+103.9511 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+103.9595 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+103.9687 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+103.9785 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+103.9873 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+103.9968 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+104.0003 	DATA 	Mouse:  Left button up, pos=(1009,220)
+104.0038 	EXP 	slider_treatment_radiation: markerPos = 54.53703703703704
+105.0374 	DATA 	Mouse: Left button down, pos=(997,115)
+105.0439 	EXP 	face_image: autoDraw = False
+105.0439 	EXP 	slider_treatment_surgery: autoDraw = False
+105.0439 	EXP 	NextBu: autoDraw = False
+105.0439 	EXP 	slider_treatment_radiation: autoDraw = False
+105.0439 	EXP 	text_treatment_surgery: autoDraw = False
+105.0439 	EXP 	text_treatment_radiation: autoDraw = False
+105.0439 	EXP 	text: text = ''
+105.0439 	EXP 	text: autoDraw = True
+105.1085 	DATA 	Mouse:  Left button up, pos=(997,116)
+105.6004 	EXP 	New trial (rep=0, index=23): {'faceImages': 'images\\LCHEEK_CFD_AF_231_357_N.png'}
+105.6101 	EXP 	text: autoDraw = False
+105.6101 	EXP 	text: autoDraw = False
+105.6101 	EXP 	face_image: image = 'images\\LCHEEK_CFD_AF_231_357_N.png'
+105.6101 	EXP 	slider_treatment_surgery: markerPos = None
+105.6101 	EXP 	slider_treatment_surgery: markerPos = None
+105.6101 	EXP 	slider_treatment_radiation: markerPos = None
+105.6101 	EXP 	slider_treatment_radiation: markerPos = None
+105.6101 	EXP 	face_image: autoDraw = True
+105.9062 	EXP 	slider_treatment_surgery: autoDraw = True
+105.9062 	EXP 	NextBu: autoDraw = True
+105.9062 	EXP 	slider_treatment_radiation: autoDraw = True
+105.9062 	EXP 	text_treatment_surgery: autoDraw = True
+105.9062 	EXP 	text_treatment_radiation: autoDraw = True
+127.2459 	DATA 	Mouse: Left button down, pos=(978,551)
+127.2546 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.2659 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.2745 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.2864 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.2947 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.3039 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.3129 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.3226 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+127.3252 	DATA 	Mouse:  Left button up, pos=(978,551)
+127.3327 	EXP 	slider_treatment_surgery: markerPos = 51.66666666666667
+128.2938 	DATA 	Mouse: Left button down, pos=(1000,223)
+128.3021 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3128 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3222 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3313 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3407 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3501 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3601 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3687 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3785 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+128.3799 	DATA 	Mouse:  Left button up, pos=(1000,223)
+128.3861 	EXP 	slider_treatment_radiation: markerPos = 53.703703703703695
+130.0786 	DATA 	Mouse: Left button down, pos=(932,118)
+130.0852 	EXP 	face_image: autoDraw = False
+130.0852 	EXP 	slider_treatment_surgery: autoDraw = False
+130.0852 	EXP 	NextBu: autoDraw = False
+130.0852 	EXP 	slider_treatment_radiation: autoDraw = False
+130.0852 	EXP 	text_treatment_surgery: autoDraw = False
+130.0852 	EXP 	text_treatment_radiation: autoDraw = False
+130.0852 	EXP 	text: text = ''
+130.0852 	EXP 	text: autoDraw = True
+130.1693 	DATA 	Mouse:  Left button up, pos=(932,118)
+130.5925 	EXP 	New trial (rep=0, index=24): {'faceImages': 'images\\LCHEEK_CFD_AF_237_223_N.png'}
+130.6015 	EXP 	text: autoDraw = False
+130.6015 	EXP 	text: autoDraw = False
+130.6015 	EXP 	face_image: image = 'images\\LCHEEK_CFD_AF_237_223_N.png'
+130.6015 	EXP 	slider_treatment_surgery: markerPos = None
+130.6015 	EXP 	slider_treatment_surgery: markerPos = None
+130.6015 	EXP 	slider_treatment_radiation: markerPos = None
+130.6015 	EXP 	slider_treatment_radiation: markerPos = None
+130.6015 	EXP 	face_image: autoDraw = True
+130.8995 	EXP 	slider_treatment_surgery: autoDraw = True
+130.8995 	EXP 	NextBu: autoDraw = True
+130.8995 	EXP 	slider_treatment_radiation: autoDraw = True
+130.8995 	EXP 	text_treatment_surgery: autoDraw = True
+130.8995 	EXP 	text_treatment_radiation: autoDraw = True
+131.4644 	DATA 	Mouse: Left button down, pos=(982,536)
+131.4725 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.4815 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.4903 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.4997 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.5095 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.5182 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.5298 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.5383 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.5442 	DATA 	Mouse:  Left button up, pos=(982,536)
+131.5487 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+131.5574 	EXP 	slider_treatment_surgery: markerPos = 52.03703703703704
+132.2884 	DATA 	Mouse: Left button down, pos=(985,222)
+132.3017 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3087 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3198 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3292 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3388 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3477 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3584 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3682 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3774 	DATA 	Mouse:  Left button up, pos=(985,222)
+132.3787 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+132.3901 	EXP 	slider_treatment_radiation: markerPos = 52.31481481481482
+133.3518 	DATA 	Mouse: Left button down, pos=(1005,122)
+133.3621 	EXP 	face_image: autoDraw = False
+133.3621 	EXP 	slider_treatment_surgery: autoDraw = False
+133.3621 	EXP 	NextBu: autoDraw = False
+133.3621 	EXP 	slider_treatment_radiation: autoDraw = False
+133.3621 	EXP 	text_treatment_surgery: autoDraw = False
+133.3621 	EXP 	text_treatment_radiation: autoDraw = False
+133.3621 	EXP 	text: text = ''
+133.3621 	EXP 	text: autoDraw = True
+133.4261 	DATA 	Mouse:  Left button up, pos=(1005,122)
+134.0787 	EXP 	New trial (rep=0, index=25): {'faceImages': 'images\\LCHEEK_CFD_AF_245_143_N.png'}
+134.0878 	EXP 	text: autoDraw = False
+134.0878 	EXP 	text: autoDraw = False
+134.0878 	EXP 	face_image: image = 'images\\LCHEEK_CFD_AF_245_143_N.png'
+134.0878 	EXP 	slider_treatment_surgery: markerPos = None
+134.0878 	EXP 	slider_treatment_surgery: markerPos = None
+134.0878 	EXP 	slider_treatment_radiation: markerPos = None
+134.0878 	EXP 	slider_treatment_radiation: markerPos = None
+134.0878 	EXP 	face_image: autoDraw = True
+134.3851 	EXP 	slider_treatment_surgery: autoDraw = True
+134.3851 	EXP 	NextBu: autoDraw = True
+134.3851 	EXP 	slider_treatment_radiation: autoDraw = True
+134.3851 	EXP 	text_treatment_surgery: autoDraw = True
+134.3851 	EXP 	text_treatment_radiation: autoDraw = True
+134.8621 	DATA 	Mouse: Left button down, pos=(965,551)
+134.8765 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.8872 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.8982 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9070 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9140 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9245 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9335 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9425 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9514 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9604 	DATA 	Mouse:  Left button up, pos=(965,551)
+134.9619 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+134.9734 	EXP 	slider_treatment_surgery: markerPos = 50.46296296296296
+135.6427 	DATA 	Mouse: Left button down, pos=(975,206)
+135.6510 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.6601 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.6709 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.6808 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.6905 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.6976 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.7086 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.7196 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.7268 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.7381 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.7457 	DATA 	Mouse:  Left button up, pos=(975,206)
+135.7478 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+135.7572 	EXP 	slider_treatment_radiation: markerPos = 51.388888888888886
+136.8617 	DATA 	Mouse: Left button down, pos=(973,88)
+136.8760 	EXP 	face_image: autoDraw = False
+136.8760 	EXP 	slider_treatment_surgery: autoDraw = False
+136.8760 	EXP 	NextBu: autoDraw = False
+136.8760 	EXP 	slider_treatment_radiation: autoDraw = False
+136.8760 	EXP 	text_treatment_surgery: autoDraw = False
+136.8760 	EXP 	text_treatment_radiation: autoDraw = False
+136.8760 	EXP 	text: text = ''
+136.8760 	EXP 	text: autoDraw = True
+136.9543 	DATA 	Mouse:  Left button up, pos=(973,88)
+137.5856 	EXP 	New trial (rep=0, index=26): {'faceImages': 'images\\LCHEEK_CFD_AM_233_236_N.png\n'}
+137.5871 	DEPRECATION 	Couldn't find image images\LCHEEK_CFD_AM_233_236_N.png
+; check path? (tried: C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\images\LCHEEK_CFD_AM_233_236_N.png
+)
+137.6183 	EXP 	window1: mouseVisible = True
+137.6184 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+137.6257 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-07_21h41.11.904.psydat
+137.6287 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-07_21h41.11.904.csv'

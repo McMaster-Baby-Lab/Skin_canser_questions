@@ -1,0 +1,15 @@
+3.8422 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+3.8490 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+5.2399 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A851545E80>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A856F08340>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.2399 	EXP 	window1: mouseVisible = True
+5.2400 	EXP 	window1: mouseVisible = False
+5.2400 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.2400 	EXP 	window1: recordFrameIntervals = False
+5.3091 	EXP 	window1: recordFrameIntervals = True
+5.3859 	EXP 	Screen (0) actual frame rate measured at 143.95Hz
+5.3860 	EXP 	window1: recordFrameIntervals = False
+7.1010 	INFO 	keyboard.Keyboard is using iohub backend.
+7.1237 	EXP 	window1: mouseVisible = True
+7.1243 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+7.1255 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-07_20h34.04.072.psydat
+7.1262 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-07_20h34.04.072.csv'

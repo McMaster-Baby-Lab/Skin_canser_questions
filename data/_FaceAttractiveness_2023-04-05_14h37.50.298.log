@@ -1,0 +1,32 @@
+3.8866 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+3.8926 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+6.8139 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027F0B4D4DC0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000027F10E8A2B0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.8139 	EXP 	window1: mouseVisible = True
+6.8140 	EXP 	window1: mouseVisible = False
+6.8140 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.8140 	EXP 	window1: recordFrameIntervals = False
+6.8829 	EXP 	window1: recordFrameIntervals = True
+6.9596 	EXP 	Screen (0) actual frame rate measured at 144.02Hz
+6.9597 	EXP 	window1: recordFrameIntervals = False
+8.5661 	INFO 	keyboard.Keyboard is using iohub backend.
+8.6470 	EXP 	Created ques_instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='ques_instr', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.6472 	EXP 	window1: mouseVisible = True
+8.6507 	EXP 	window1: mouseVisible = True
+8.6590 	EXP 	Created slider_2 = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='slider_2', opacity=None, ori=0.0, pos=array([ 0. , -0.4]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['triangleMarker'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+8.6906 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.6987 	EXP 	slider_2: autoLog = True
+8.6987 	EXP 	slider_2: markerPos = 3
+8.6987 	EXP 	slider_2: styleTweaks = []
+8.6987 	EXP 	slider_2: styleTweaks = []
+8.6987 	EXP 	slider_2: styleTweaks = ['triangleMarker']
+8.6987 	EXP 	slider_2: styleTweaks = ['triangleMarker']
+8.6987 	EXP 	slider_2: contrast = 1.0
+8.6987 	EXP 	slider_2: autoLog = True
+8.6987 	EXP 	ques_instr: autoDraw = True
+9.0601 	DATA 	Mouse: Left button down, pos=(813,604)
+9.1698 	DATA 	Mouse:  Left button up, pos=(813,604)
+15.7648 	DATA 	Mouse: Left button down, pos=(966,717)
+16.4388 	EXP 	window1: mouseVisible = True
+16.4396 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+16.4413 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_14h37.50.298.psydat
+16.4420 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_14h37.50.298.csv'

@@ -1,0 +1,80 @@
+5.4674 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+5.4744 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+6.7378 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D5724D4DC0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D5747BA280>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7379 	EXP 	window1: mouseVisible = True
+6.7381 	EXP 	window1: mouseVisible = False
+6.7381 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.7381 	EXP 	window1: recordFrameIntervals = False
+6.8126 	EXP 	window1: recordFrameIntervals = True
+6.8895 	EXP 	Screen (0) actual frame rate measured at 142.85Hz
+6.8896 	EXP 	window1: recordFrameIntervals = False
+8.6035 	INFO 	keyboard.Keyboard is using iohub backend.
+8.6183 	EXP 	Created face_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=True, flipVert=False, image='sin', interpolate=False, mask=None, maskParams=None, name='face_image', opacity=1.0, ori=0.0, pos=array([  0., 250.]), size=array([960., 540.]), texRes=512, units='pix', win=Window(...))
+8.6223 	EXP 	window1: mouseVisible = True
+8.7300 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+8.7460 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7495 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7506 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7517 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7541 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7560 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7578 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7598 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.7601 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.7664 	DEBUG 	Upload of Texture Font fontname complete
+8.8783 	WARNING 	Font b'HelveticaBold' was requested. No similar font found.
+8.8928 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8954 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8968 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8992 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9011 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9033 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9053 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.9055 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.9124 	DEBUG 	Upload of Texture Font fontname complete
+8.9217 	EXP 	Created slider_treatment_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='HelveticaBold', granularity=0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=('0% Never', '100% Always'), lineColor=None, markerColor=None, name='slider_treatment_surgery', opacity=None, ori=0, pos=array([ 0.  , -0.28]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style=['rating'], styleTweaks=['labels45', 'triangleMarker'], ticks=array([  0,  25,  50,  75, 100]), units='height', win=Window(...))
+8.9310 	EXP 	Created NextBu = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='Picture1-eng.png', interpolate=False, mask=None, maskParams=None, name='NextBu', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.1]), texRes=512, units='height', win=Window(...))
+8.9310 	EXP 	window1: mouseVisible = True
+8.9324 	EXP 	window1: mouseVisible = True
+8.9398 	EXP 	Created slider_treatment_radiation = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-5, fillColor=None, flip=False, font='HelveticaBold', granularity=0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=None, lineColor=None, markerColor=None, name='slider_treatment_radiation', opacity=None, ori=0, pos=array([ 0.  , -0.28]), readOnly=False, self=UNKNOWN, size=array([1.   , 0.025]), startValue=None, style=['rating'], styleTweaks=['triangleMarker'], ticks=array([  0,  25,  50,  75, 100]), units='height', win=Window(...))
+8.9932 	EXP 	Created text_treatment_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_treatment_surgery', opacity=1.0, ori=0.0, pos=array([0., 1.]), rgb=UNKNOWN, text='How likely are you to recommend surgery? ', units='height', win=Window(...), wrapWidth=1)
+9.0005 	EXP 	Created text_treatment_radiation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_treatment_radiation', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='How likely are you to recommend radiation? ', units='height', win=Window(...), wrapWidth=1)
+9.0334 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.0379 	DEBUG 	Read excel file with openpyxl: Rating_BlockOrder.xlsx
+9.0380 	EXP 	Imported Rating_BlockOrder.xlsx as conditions, 1 conditions, 3 params
+9.0384 	EXP 	Created sequence: fullRandom, trialTypes=1, nReps=1, seed=None
+9.0385 	EXP 	New trial (rep=0, index=0): {'Task': 'treatment', 'LeftLabel': '0% Never', 'RightLabel': '100% Always'}
+9.0391 	EXP 	Created sequence: sequential, trialTypes=1, nReps=95, seed=None
+9.0394 	EXP 	New trial (rep=0, index=0): None
+9.0483 	EXP 	slider_treatment_surgery: autoLog = True
+9.0483 	EXP 	slider_treatment_surgery: markerPos = None
+9.0483 	EXP 	slider_treatment_surgery: styleTweaks = []
+9.0483 	EXP 	slider_treatment_surgery: styleTweaks = []
+9.0483 	EXP 	slider_treatment_surgery: styleTweaks = ['labels45', 'triangleMarker']
+9.0483 	EXP 	slider_treatment_surgery: styleTweaks = ['labels45', 'triangleMarker']
+9.0483 	EXP 	slider_treatment_surgery: contrast = 1.0
+9.0483 	EXP 	slider_treatment_surgery: autoLog = True
+9.0483 	EXP 	slider_treatment_radiation: autoLog = True
+9.0483 	EXP 	slider_treatment_radiation: markerPos = None
+9.0483 	EXP 	slider_treatment_radiation: styleTweaks = []
+9.0483 	EXP 	slider_treatment_radiation: styleTweaks = []
+9.0483 	EXP 	slider_treatment_radiation: styleTweaks = ['triangleMarker']
+9.0483 	EXP 	slider_treatment_radiation: styleTweaks = ['triangleMarker']
+9.0483 	EXP 	slider_treatment_radiation: contrast = 1.0
+9.0483 	EXP 	slider_treatment_radiation: autoLog = True
+9.0483 	EXP 	face_image: image = 'images/FOREHEAD_006_M_F_N_A.png'
+9.0483 	EXP 	slider_treatment_surgery: markerPos = None
+9.0483 	EXP 	slider_treatment_surgery: markerPos = None
+9.0483 	EXP 	slider_treatment_radiation: markerPos = None
+9.0483 	EXP 	slider_treatment_radiation: markerPos = None
+9.0483 	EXP 	face_image: autoDraw = True
+9.3692 	EXP 	slider_treatment_surgery: autoDraw = True
+9.3692 	EXP 	NextBu: autoDraw = True
+9.3692 	EXP 	slider_treatment_radiation: autoDraw = True
+9.3692 	EXP 	text_treatment_surgery: autoDraw = True
+9.3692 	EXP 	text_treatment_radiation: autoDraw = True
+54.9726 	DATA 	Keypress: escape
+55.6109 	EXP 	window1: mouseVisible = True
+55.6113 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+55.6129 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_23h17.41.241.psydat
+55.6150 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_23h17.41.241.csv'

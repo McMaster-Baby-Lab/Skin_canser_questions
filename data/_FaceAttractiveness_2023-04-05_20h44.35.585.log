@@ -1,0 +1,80 @@
+3.9211 	INFO 	Loaded monitor calibration from ['2021_12_01 18:33']
+3.9267 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+5.0934 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0.09803922, 0.09803922, 0.09803922]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001AAF8215D00>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001AAFD687190>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.0934 	EXP 	window1: mouseVisible = True
+5.0935 	EXP 	window1: mouseVisible = False
+5.0935 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.0936 	EXP 	window1: recordFrameIntervals = False
+5.1621 	EXP 	window1: recordFrameIntervals = True
+5.2178 	WARNING 	t of last frame was 12.38ms (=1/80)
+5.2875 	EXP 	Screen (0) actual frame rate measured at 143.93Hz
+5.2875 	EXP 	window1: recordFrameIntervals = False
+6.8958 	INFO 	keyboard.Keyboard is using iohub backend.
+6.8996 	EXP 	window1: mouseVisible = True
+6.9223 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9241 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9256 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9274 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9287 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9317 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9351 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9367 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9382 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9396 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9398 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.9504 	DEBUG 	Upload of Texture Font fontname complete
+6.9663 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9666 	DEBUG 	Uploading Texture Font fontname to graphics card
+6.9721 	DEBUG 	Upload of Texture Font fontname complete
+6.9884 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9903 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9921 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9940 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9955 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9973 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9975 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.0020 	DEBUG 	Upload of Texture Font fontname complete
+7.0189 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0192 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.0238 	DEBUG 	Upload of Texture Font fontname complete
+7.0399 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0419 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0421 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.0464 	DEBUG 	Upload of Texture Font fontname complete
+7.0581 	EXP 	Created slider_rad_therapy = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=0, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_rad_therapy', opacity=None, ori=0.0, pos=array([0. , 0.1]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+7.1111 	EXP 	Created text_rad_therapy = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_rad_therapy', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.1124 	EXP 	window1: mouseVisible = True
+7.1912 	EXP 	Created slider_surgery = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-2, fillColor=None, flip=False, font='Arial', granularity=0.0, labelColor=None, labelHeight=0.03, labelWrapWidth=None, labels=tuple(...), lineColor=None, markerColor=None, name='slider_surgery', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=3, style='rating', styleTweaks=['labels45'], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+7.1970 	EXP 	Created text_surgery = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_surgery', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.2333 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.2760 	EXP 	slider_rad_therapy: autoLog = True
+7.2760 	EXP 	slider_rad_therapy: markerPos = 3
+7.2760 	EXP 	slider_rad_therapy: styleTweaks = []
+7.2760 	EXP 	slider_rad_therapy: styleTweaks = []
+7.2760 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+7.2760 	EXP 	slider_rad_therapy: styleTweaks = ['labels45']
+7.2760 	EXP 	slider_rad_therapy: contrast = 1.0
+7.2760 	EXP 	slider_rad_therapy: autoLog = True
+7.2760 	EXP 	slider_surgery: autoLog = True
+7.2760 	EXP 	slider_surgery: markerPos = 3
+7.2760 	EXP 	slider_surgery: styleTweaks = []
+7.2760 	EXP 	slider_surgery: styleTweaks = []
+7.2760 	EXP 	slider_surgery: styleTweaks = ['labels45']
+7.2760 	EXP 	slider_surgery: styleTweaks = ['labels45']
+7.2760 	EXP 	slider_surgery: contrast = 1.0
+7.2760 	EXP 	slider_surgery: autoLog = True
+7.2760 	EXP 	slider_rad_therapy: markerPos = None
+7.2760 	EXP 	slider_rad_therapy: markerPos = 3
+7.2760 	EXP 	slider_surgery: markerPos = None
+7.2760 	EXP 	slider_surgery: markerPos = 3
+7.2760 	EXP 	slider_rad_therapy: autoDraw = True
+7.2760 	EXP 	text_rad_therapy: autoDraw = True
+7.2760 	EXP 	slider_surgery: autoDraw = True
+7.2760 	EXP 	text_surgery: autoDraw = True
+11.5745 	DATA 	Keypress: escape
+11.8888 	EXP 	window1: mouseVisible = True
+11.8889 	DEBUG 	Saving data for FaceAttractiveness ExperimentHandler
+11.8897 	INFO 	saved data to C:\Users\annak\Documents\GitHub\faceattractiveness_lesion\data/_FaceAttractiveness_2023-04-05_20h44.35.585.psydat
+11.8903 	INFO 	saved data to 'C:\\Users\\annak\\Documents\\GitHub\\faceattractiveness_lesion\\data/_FaceAttractiveness_2023-04-05_20h44.35.585.csv'
